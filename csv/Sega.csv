@@ -1,0 +1,639 @@
+﻿Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+Congo Bongo,2600,1982,Action,Sega,0.37,0.02,0,0,0.4,39,42,9,81,,
+Streets of Rage,GEN,1990,Action,Sega,1.86,0.55,0.11,0.08,2.6,46,29,4,64,,
+Sonic the Hedgehog,GEN,1991,Platform,Sega,3.03,0.91,0.26,0.13,4.34,60,44,3,45,,
+Ecco the Dolphin,GEN,1992,Adventure,Sega,0,0,0.12,0,0.12,16,31,7,41,,
+Gunstar Heroes,GEN,1992,Shooter,Sega,0,0,0.13,0,0.13,94,16,10,34,,
+Sonic the Hedgehog 2,GEN,1992,Platform,Sega,4.47,1.2,0.16,0.19,6.03,63,57,2,14,,
+Sonic the Hedgehog 2 (8-bit),GG,1992,Platform,Sega,0,0,0.04,0,0.04,59,10,0,56,,
+Street Fighter II': Special Champion Edition,GEN,1992,Fighting,Sega,1,0.3,0.31,0.04,1.66,69,28,1,41,,
+Beyond Oasis,GEN,1993,Role-Playing,Sega,0,0,0.05,0,0.05,7,89,0,3,,
+Dynamite Headdy,GEN,1993,Platform,Sega,0,0,0.05,0,0.05,78,15,1,33,,
+Ecco: The Tides of Time,GEN,1993,Adventure,Sega,0,0,0.07,0,0.07,44,19,5,3,,
+Shining Force II,GEN,1993,Strategy,Sega,0,0,0.19,0,0.19,3,5,9,94,,
+Sonic CD,SCD,1993,Platform,Sega,1,0.36,0.09,0.05,1.5,70,87,5,12,,
+Streets of Rage 3,GEN,1993,Action,Sega,0,0,0.07,0,0.07,2,52,8,86,,
+Battle Arena Toshinden Remix,SAT,1994,Fighting,Sega,0,0,0.12,0,0.12,98,14,0,97,,
+Clockwork Knight,SAT,1994,Platform,Sega,0,0,0.09,0,0.09,67,29,3,95,,
+Daytona USA,SAT,1994,Racing,Sega,0,0,0.55,0,0.55,94,48,7,24,,
+Decathlete,SAT,1994,Sports,Sega,0,0,0.3,0,0.3,85,9,4,13,,
+Dragon Slayer: The Legend of Heroes,GEN,1994,Role-Playing,Sega,0,0,0.08,0,0.08,69,30,6,48,,
+F1 Challenge,SAT,1994,Racing,Sega,0,0,0.18,0,0.18,53,75,5,25,,
+Formula One World Championship: Beyond the Limit,SCD,1994,Racing,Sega,0,0,0.07,0,0.07,6,75,3,17,,
+Gale Racer,SAT,1994,Racing,Sega,0,0,0.07,0,0.07,37,36,0,28,,
+Game no Kanzume Vol 1,SCD,1994,Misc,Sega,0,0,0.04,0,0.05,87,14,8,57,,
+Game no Kanzume Vol 2,SCD,1994,Misc,Sega,0,0,0.05,0,0.05,27,67,2,59,,
+Golden Axe: The Duel,SAT,1994,Fighting,Sega,0,0,0.05,0,0.05,60,64,4,4,,
+J-League Pro Striker 2,GEN,1994,Sports,Sega,0,0,0.04,0,0.04,30,90,3,70,,
+Pebble Beach Golf Links,SAT,1994,Sports,Sega,0,0,0.02,0,0.02,64,44,5,51,,
+Puzzle & Action: Tant-R,GEN,1994,Misc,Sega,0,0,0.03,0,0.03,56,59,4,7,,
+Record of Lodoss War: Eiyuu Sensou,SCD,1994,Role-Playing,Sega,0,0,0.06,0,0.06,60,20,3,97,,
+Robotica,SAT,1994,Shooter,Sega,0,0,0.06,0,0.06,62,67,5,26,,
+Shining Force CD,SCD,1994,Strategy,Sega,0,0,0.14,0,0.14,12,28,3,12,,
+SimCity 2000,SAT,1994,Simulation,Sega,0,0,0.28,0,0.28,94,54,3,50,,
+Sonic & Knuckles,GEN,1994,Platform,Sega,1.24,0.43,0.03,0.12,1.82,85,38,5,37,,
+Sonic the Hedgehog 3,GEN,1994,Platform,Sega,1.02,0.47,0.2,0.07,1.76,23,71,4,85,,
+Virtua Fighter,SAT,1994,Fighting,Sega,0.17,0.12,0.77,0.02,1.07,20,11,3,75,,
+Virtua Racing,GEN,1994,Racing,Sega,0,0,0.26,0,0.26,7,49,2,59,,
+Wing Arms,SAT,1994,Shooter,Sega,0,0,0.2,0,0.2,23,98,0,52,,
+World Series Baseball,SAT,1994,Sports,Sega,0,0,0.04,0,0.04,50,82,2,13,,
+Worldwide Soccer,SAT,1994,Sports,Sega,0,0,0.06,0,0.06,40,73,9,37,,
+Yuu Yuu Hakusho: Makyo Toitsusen,GEN,1994,Fighting,Sega,0,0,0.08,0,0.08,76,73,10,26,,
+Baku Baku,SAT,1995,Puzzle,Sega,0,0,0.05,0,0.05,100,76,1,33,,
+Battle Arena Toshinden URA,SAT,1995,Fighting,Sega,0,0,0.03,0,0.03,30,21,9,38,,
+Blazing Heroes,SAT,1995,Role-Playing,Sega,0,0,0.3,0,0.3,73,56,7,78,,
+Cyber Troopers Virtual-On,SAT,1995,Fighting,Sega,0,0,0.42,0,0.42,71,57,10,50,,
+Daytona USA Championship Circuit Edition,SAT,1995,Racing,Sega,0,0,0.14,0,0.14,34,82,9,72,,
+Fighting Vipers,SAT,1995,Fighting,Sega,0,0,0.4,0,0.4,70,38,1,75,,
+GOTHA: Ismailia Seneki,SAT,1995,Strategy,Sega,0,0,0.08,0,0.08,12,26,2,28,,
+Guardian Heroes,SAT,1995,Role-Playing,Sega,0,0,0.29,0,0.29,29,47,3,71,,
+GunGriffon,SAT,1995,Simulation,Sega,0,0,0.19,0,0.19,60,0,8,12,,
+Hang On GP,SAT,1995,Racing,Sega,0,0,0.07,0,0.07,79,17,7,68,,
+Iron Storm,SAT,1995,Shooter,Sega,0,0,0.34,0,0.34,24,38,8,60,,
+J-League Victory Goal,SAT,1995,Sports,Sega,0,0,0.15,0,0.15,58,81,7,40,,
+Kanzen Chuuki Pro Yakyuu Greatest Nine,SAT,1995,Sports,Sega,0,0,0.22,0,0.22,24,62,7,30,,
+Panzer Dragoon,SAT,1995,Shooter,Sega,0,0,0.37,0,0.37,87,96,7,22,,
+Panzer Dragoon II Zwei,SAT,1995,Shooter,Sega,0,0,0.31,0,0.31,15,100,2,71,,
+Rampo,SAT,1995,Adventure,Sega,0,0,0.03,0,0.03,81,38,10,88,,
+Sega Rally Championship,SAT,1995,Racing,Sega,0.21,0.16,0.77,0.02,1.16,86,3,3,82,,
+Virtua Cop,SAT,1995,Shooter,Sega,0,0,0.62,0,0.62,91,76,3,78,,
+Virtua Fighter 2,SAT,1995,Fighting,Sega,0.34,0.26,1.3,0.03,1.93,5,44,0,39,,
+Virtua Fighter CG Portrait Series Vol.1: Sarah Bryant,SAT,1995,Misc,Sega,0,0,0.11,0,0.11,49,69,4,20,,
+Virtua Fighter CG Portrait Series Vol.2: Jacky Bryant,SAT,1995,Misc,Sega,0,0,0.08,0,0.08,54,29,10,27,,
+Virtua Fighter CG Portrait Series Vol.3: Akira Yuki,SAT,1995,Misc,Sega,0,0,0.09,0,0.09,79,67,9,82,,
+Virtua Fighter CG Portrait Series Vol.4: Pai Chan,SAT,1995,Misc,Sega,0,0,0.12,0,0.12,88,13,1,59,,
+Virtua Fighter CG Portrait Series Vol.5: Wolf Hawkfield,SAT,1995,Misc,Sega,0,0,0.05,0,0.05,43,64,2,49,,
+Virtua Fighter CG Portrait Series Vol.6: Lau Chan,SAT,1995,Misc,Sega,0,0,0.04,0,0.04,41,58,4,71,,
+Virtua Fighter Kids,SAT,1995,Fighting,Sega,0,0,0.23,0,0.23,74,20,0,61,,
+Virtual Hydlide,SAT,1995,Role-Playing,Sega,0,0,0.11,0,0.11,68,98,6,83,,
+Dragon Force,SAT,1996,Strategy,Sega,0,0,0.3,0,0.3,78,52,5,9,,
+E0: Enemy Zero,SAT,1996,Adventure,Sega,0,0,0.41,0,0.41,73,91,10,75,,
+Fighters MEGAMiX,SAT,1996,Fighting,Sega,0,0,0.62,0,0.62,57,90,8,69,,
+J-League Pro Soccer Club wo Tsukurou!,SAT,1996,Sports,Sega,0,0,0.26,0,0.26,10,67,2,87,,
+J-League Victory Goal '96,SAT,1996,Sports,Sega,0,0,0.29,0,0.29,77,24,4,59,,
+Last Bronx,SAT,1996,Fighting,Sega,0,0,0.13,0,0.13,81,62,7,48,,
+Lunacy,SAT,1996,Adventure,Sega,0,0,0.11,0,0.11,41,35,8,81,,
+Neon Genesis Evangelion,SAT,1996,Adventure,Sega,0,0,0.44,0,0.44,21,28,5,52,,
+NiGHTS into dreams...,SAT,1996,Platform,Sega,0,0,0.43,0,0.43,19,17,3,53,,
+Sakura Wars,SAT,1996,Adventure,Sega,0,0,0.55,0,0.55,73,14,9,61,,
+Saturn Bomberman,SAT,1996,Puzzle,Sega,0,0,0.15,0,0.15,43,77,4,76,,
+Sega Touring Car Championship,SAT,1996,Racing,Sega,0,0,0.11,0,0.11,25,74,9,0,,
+The Space Bar,SAT,1996,Adventure,Sega,0,0,0.08,0,0.08,17,83,7,74,,
+Virtua Cop 2,SAT,1996,Shooter,Sega,0,0,0.3,0,0.3,71,43,4,50,,
+Winter Heat,SAT,1996,Sports,Sega,0,0,0.11,0,0.11,1,57,9,94,,
+All Japan Pro Wrestling featuring Virtua,SAT,1997,Fighting,Sega,0,0,0.15,0,0.15,71,88,8,21,,
+Hanagumi Taisen Columns,SAT,1997,Puzzle,Sega,0,0,0.12,0,0.12,71,30,2,29,,
+J-League Pro Soccer Club wo Tsukurou! 2,SAT,1997,Sports,Sega,0,0,0.49,0,0.49,65,34,10,54,,
+Kidou Senkan Nadesico,SAT,1997,Strategy,Sega,0,0,0.15,0,0.15,61,45,0,38,,
+Neon Genesis Evangelion 2nd Impression,SAT,1997,Role-Playing,Sega,0,0,0.42,0,0.42,40,2,5,87,,
+Panzer Dragoon Saga,SAT,1997,Role-Playing,Sega,0,0,0.11,0,0.11,94,95,6,37,,
+Pro Yakyuu Greatest Nine '97,SAT,1997,Sports,Sega,0,0,0.21,0,0.21,52,82,3,41,,
+Sakura Taisen Hanagumi Tsuushin,SAT,1997,Misc,Sega,0,0,0.11,0,0.11,69,93,2,90,,
+Shining Force III,SAT,1997,Strategy,Sega,0,0,0.13,0,0.13,89,3,5,82,,
+Sonic Jam,SAT,1997,Platform,Sega,0,0,0.12,0,0.12,50,3,6,26,,
+The House of the Dead,SAT,1997,Shooter,Sega,0,0,0.13,0,0.13,84,95,0,87,,
+Burning Rangers,SAT,1998,Platform,Sega,0,0,0.06,0,0.06,67,4,3,9,,
+Deep Fear,SAT,1998,Adventure,Sega,0,0,0.08,0,0.08,8,22,3,31,,
+Dragon Force II: Kamisarishi Daichi ni,SAT,1998,Strategy,Sega,0,0,0.08,0,0.08,45,41,5,93,,
+Godzilla Generations,DC,1998,Action,Sega,0,0,0.08,0,0.08,60,6,1,59,,
+Nippon Daihyou Team no Kantoku ni Narou! Sekaihatsu Soccer RPG,SAT,1998,Sports,Sega,0,0,0.12,0,0.12,46,36,5,24,,
+Pro Yakyuu Greatest Nine 98,SAT,1998,Sports,Sega,0,0,0.09,0,0.09,91,67,2,63,,
+Pro Yakyuu Team o Tsukurou!,SAT,1998,Sports,Sega,0,0,0.25,0,0.25,58,10,6,71,,
+"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare",SAT,1998,Adventure,Sega,0,0,0.53,0,0.53,26,25,7,33,,
+Shining Force III: Scenario 2,SAT,1998,Strategy,Sega,0,0,0.05,0,0.05,23,74,9,28,,
+Shinseiki Evangelion: Koutetsu no Girlfriend,SAT,1998,Adventure,Sega,0,0,0.11,0,0.11,64,61,8,90,,
+Sonic Adventure,DC,1998,Platform,Sega,1.26,0.61,0.46,0.08,2.42,64,9,6,93,,
+The House of the Dead 2,DC,1998,Shooter,Sega,0,0,0.26,0,0.26,43,3,7,4,,
+Virtua Fighter 3tb,DC,1998,Fighting,Sega,0,0,0.37,0,0.37,6,1,7,71,,
+World Cup '98 France: Road to Win,SAT,1998,Sports,Sega,0,0,0.09,0,0.09,89,6,6,81,,
+J-League Pro Soccer Club o Tsukurou!,DC,1999,Sports,Sega,0,0,0.36,0,0.36,51,89,2,100,,
+NBA 2K,DC,1999,Sports,Sega,0,0,0.05,0,0.05,93,20,1,78,,
+NFL 2K,DC,1999,Sports,Sega,1.12,0.05,0,0.02,1.2,14,45,9,16,,
+Pro Yakyuu Team o Tsukurou!,DC,1999,Sports,Sega,0,0,0.23,0,0.23,61,47,5,38,,
+Seaman,DC,1999,Simulation,Sega,0,0,0.52,0,0.52,82,24,8.4,16,Vivarium,T
+Sega Bass Fishing,DC,1999,Sports,Sega,0,0,0.09,0,0.09,99,50,0,59,,
+Sega Rally Championship 2,DC,1999,Racing,Sega,0,0,0.41,0,0.41,59,90,4,95,,
+Shenmue,DC,1999,Adventure,Sega,0.52,0.24,0.38,0.04,1.18,88,9,9.4,201,Sega AM2,T
+Virtua Striker 2,DC,1999,Sports,Sega,0,0,0.32,0,0.32,51,7,6,78,,
+Crazy Taxi,DC,2000,Racing,Sega,1.1,0.51,0.12,0.08,1.81,10,31,9,22,,
+Derby Tsuku: Derby Uma o Tsukurou!,DC,2000,Sports,Sega,0,0,0.08,0,0.08,12,62,9,93,,
+Fighting Vipers 2,DC,2000,Fighting,Sega,0,0,0.04,0,0.04,65,9,9,66,,
+NFL 2K1,DC,2000,Sports,Sega,1.02,0.05,0,0.02,1.09,97,22,6,47,Visual Concepts,E
+Phantasy Star Online,DC,2000,Role-Playing,Sega,0,0,0.2,0,0.2,89,21,9.1,33,Sonic Team,T
+Sakura Wars,DC,2000,Adventure,Sega,0,0,0.11,0,0.11,87,20,7,96,,
+"Sakura Wars 2: Kimi, Shinitamou koto Nakare",DC,2000,Adventure,Sega,0,0,0.1,0,0.1,7,66,8,33,,
+Sega GT,DC,2000,Racing,Sega,0,0,0.13,0,0.13,84,25,7.7,11,TOSE,E
+Skies of Arcadia,DC,2000,Role-Playing,Sega,0,0,0.09,0,0.09,93,21,9.4,98,Overworks,T
+Soccer Tsuku Tokudai Gou: J-League Pro Soccer Club o Tsukurou,DC,2000,Sports,Sega,0,0,0.18,0,0.18,35,69,4,12,,
+The Typing of the Dead,DC,2000,Shooter,Sega,0,0,0.05,0,0.05,83,12,7.8,12,Smilebit,M
+Crazy Taxi 2,DC,2001,Racing,Sega,0,0,0.07,0,0.07,82,18,8.1,29,Hitmaker,T
+NFL 2K2,PS2,2001,Sports,Sega,0.44,0.34,0,0.11,0.89,85,16,7.5,6,Visual Concepts,E
+Phantasy Star Online Ver. 2,DC,2001,Role-Playing,Sega,0,0,0.19,0,0.19,80,10,8.9,18,Sonic Team,T
+Puyo Pop,GBA,2001,Puzzle,Sega,0.04,0.01,0,0,0.05,84,14,1,37,Sonic Team,E
+Sakura Wars 3: Paris wa Moeteiru ka,DC,2001,Adventure,Sega,0,0,0.33,0,0.33,13,37,5,2,,
+Shenmue II,DC,2001,Adventure,Sega,0,0,0.15,0,0.15,88,9,9.4,201,Sega AM2,T
+Sonic Advance,GBA,2001,Platform,Sega,1.19,0.71,0.22,0.13,2.24,87,22,8.1,48,Sonic Team,E
+Sonic Adventure 2,DC,2001,Platform,Sega,0,0,0.12,0,0.12,89,18,8.6,236,Sonic Team,E
+Sonic Adventure 2 Battle,GC,2001,Platform,Sega,1.7,0.59,0.21,0.07,2.56,73,28,8.3,179,Sonic Team,E
+Aero Elite: Combat Academy,PS2,2002,Simulation,Sega,0.04,0.03,0,0.01,0.07,64,18,7,8,Sega AM2,E
+Baseball Advance,GBA,2002,Sports,Sega,0.1,0.04,0,0,0.13,80,16,7.8,5,Smilebit,E
+Beach Spikers: Virtua Beach Volleyball,GC,2002,Sports,Sega,0.08,0.02,0,0,0.1,76,31,8.1,9,Sega AM2,E
+Crazy Taxi 3: High Roller,XB,2002,Racing,Sega,0.14,0.04,0.02,0.01,0.2,69,33,8.5,13,Hitmaker,T
+Culdcept,PS2,2002,Strategy,Sega,0.01,0.01,0,0,0.03,78,26,8.9,9,NEC Interchannel,T
+Headhunter,PS2,2002,Action,Sega,0.19,0.15,0,0.05,0.38,74,24,7.8,19,Amuze,M
+Home Run King,GC,2002,Sports,Sega,0.09,0.02,0,0,0.11,66,18,10,42,Wow Entertainment,E
+JSRF: Jet Set Radio Future,XB,2002,Action,Sega,0.13,0.04,0.03,0.01,0.21,88,36,8.2,102,Smilebit,T
+NBA 2K2,XB,2002,Sports,Sega,0.15,0.04,0,0.01,0.2,90,17,7.6,5,Visual Concepts,E
+NBA 2K2,PS2,2002,Sports,Sega,0.59,0.46,0.01,0.15,1.22,89,19,7.8,16,Visual Concepts,E
+NBA 2K2,GC,2002,Sports,Sega,0.09,0.02,0,0,0.12,90,13,8,4,Visual Concepts,E
+NBA 2K3,XB,2002,Sports,Sega,0.24,0.07,0,0.01,0.32,87,15,7.9,9,Visual Concepts,E
+NBA 2K3,PS2,2002,Sports,Sega,0.51,0.4,0,0.13,1.05,89,21,8,22,Visual Concepts,E
+NBA 2K3,GC,2002,Sports,Sega,0.12,0.03,0,0,0.16,84,11,4,80,Visual Concepts,E
+NCAA College Basketball 2K3,XB,2002,Sports,Sega,0.11,0.03,0,0.01,0.14,84,12,8.4,5,Kush Games,E
+NCAA College Basketball 2K3,PS2,2002,Sports,Sega,0.12,0.09,0,0.03,0.24,83,17,8,6,Kush Games,E
+NCAA College Football 2K3,GC,2002,Sports,Sega,0.05,0.01,0,0,0.07,70,7,2,40,Avalanche Software,E
+NFL 2K2,XB,2002,Sports,Sega,0.13,0.04,0,0.01,0.18,87,18,7,54,Visual Concepts,E
+NFL 2K3,XB,2002,Sports,Sega,0.38,0.11,0,0.02,0.52,53,74,3,77,,
+NFL 2K3,GC,2002,Sports,Sega,0.17,0.04,0,0.01,0.22,92,24,8.3,15,Visual Concepts,E
+NHL 2K3,XB,2002,Sports,Sega,0.09,0.02,0,0,0.12,89,17,7.1,14,Treyarch,E
+NHL 2K3,PS2,2002,Sports,Sega,0.1,0.08,0,0.03,0.21,89,25,7.8,17,Treyarch,E
+NHL 2K3,GC,2002,Sports,Sega,0.01,0,0,0,0.02,89,11,7,6,Treyarch,E
+Otogi: Myth of Demons,XB,2002,Action,Sega,0.08,0.02,0.03,0,0.13,80,40,8.5,28,From Software,T
+Panzer Dragoon Orta,XB,2002,Shooter,Sega,0.16,0.05,0.04,0.01,0.26,90,41,8.5,64,Smilebit,T
+"Sakura Wars 4: Koi Seyo,Otome",DC,2002,Adventure,Sega,0,0,0.29,0,0.29,91,57,9,84,,
+SEGA Bass Fishing Duel,PS2,2002,Sports,Sega,0.09,0.07,0,0.02,0.17,68,13,10,14,Wow Entertainment,E
+Sega GT 2002,XB,2002,Racing,Sega,0.12,0.03,0.03,0.01,0.19,82,24,8.2,24,Wow Entertainment,E
+Sega Soccer Slam,XB,2002,Sports,Sega,0.04,0.01,0,0,0.05,80,15,8.5,10,Black Box,E
+Sega Soccer Slam,PS2,2002,Sports,Sega,0.06,0.05,0,0.02,0.12,66,9,3,48,Black Box,E
+Sega Soccer Slam,GC,2002,Sports,Sega,0.05,0.01,0,0,0.07,84,22,7.7,7,Black Box,E
+Soccer Tsuku 2002: J-League Pro Soccer Club o Tsukurou!,PS2,2002,Sports,Sega,0,0,0.55,0,0.55,93,99,7,71,,
+Sonic Advance 2,GBA,2002,Platform,Sega,0.93,0.59,0.21,0.07,1.8,83,23,8.3,46,Dimps Corporation,E
+The House of The Dead III,XB,2002,Shooter,Sega,0.29,0.08,0,0.01,0.39,72,30,7.3,9,Wow Entertainment,M
+The Pinball of the Dead,GBA,2002,Misc,Sega,0.05,0.02,0,0,0.06,79,20,2,8,Sega,T
+ToeJam & Earl III: Mission to Earth,XB,2002,Action,Sega,0.09,0.02,0,0,0.11,42,77,3,48,,
+Virtua Fighter 4,PS2,2002,Fighting,Sega,0.78,0.44,0.56,0.04,1.81,94,36,8,84,Sega AM2,T
+Virtua Striker 2002,GC,2002,Sports,Sega,0.01,0,0.03,0,0.05,58,20,6,5,Amusement Vision,E
+World Series Baseball,XB,2002,Sports,Sega,0.17,0.05,0,0.01,0.23,85,20,8.8,6,Blueshift,E
+Billy Hatcher and the Giant Egg,GC,2003,Platform,Sega,0.19,0.05,0,0.01,0.25,71,37,8.7,31,Sonic Team,E
+Cyber Troopers Virtual-On Marz,PS2,2003,Fighting,Sega,0.02,0.01,0,0,0.04,7,24,7,26,,
+ESPN College Hoops,PS2,2003,Sports,Sega,0.08,0.06,0,0.02,0.16,83,14,8.5,8,Visual Concepts,E
+ESPN NBA Basketball,XB,2003,Sports,Sega,0.2,0.06,0,0.01,0.27,87,18,8.2,25,Visual Concepts,E
+ESPN NBA Basketball,PS2,2003,Sports,Sega,0.26,0.21,0,0.07,0.54,89,18,8.4,38,Visual Concepts,E
+ESPN NFL Football,XB,2003,Sports,Sega,0.27,0.08,0,0.01,0.36,91,25,8.9,45,Visual Concepts,E
+ESPN NFL Football,PS2,2003,Sports,Sega,0.27,0.21,0,0.07,0.56,91,20,8.5,25,Visual Concepts,E
+ESPN NHL Hockey,XB,2003,Sports,Sega,0.08,0.02,0,0,0.11,88,25,8.4,24,Kush Games,E
+ESPN NHL Hockey,PS2,2003,Sports,Sega,0.11,0.09,0,0.03,0.23,90,19,7,22,Kush Games,E
+Initial D: Special Stage,PS2,2003,Racing,Sega,0,0,0.27,0,0.27,1,8,4,0,,
+Jet Grind Radio,GBA,2003,Action,Sega,0.02,0.01,0,0,0.03,74,22,9.3,6,Vicarious Visions,E
+J-League Pro Soccer Club o Tsukurou! 3,PS2,2003,Sports,Sega,0,0,0.52,0,0.52,0,95,9,34,,
+Nightshade,PS2,2003,Action,Sega,0.06,0.04,0,0.01,0.12,68,39,7.7,20,Wow Entertainment,M
+Otogi 2: Immortal Warriors,XB,2003,Action,Sega,0.04,0.01,0,0,0.05,79,43,8.3,12,From Software,T
+Phantasy Star Online Episode I & II,XB,2003,Role-Playing,Sega,0.11,0.03,0,0.01,0.15,86,4,7,78,,
+Phantasy Star Online Episode I & II Plus,GC,2003,Role-Playing,Sega,0.04,0.01,0,0,0.05,1,93,0,32,,
+Phantasy Star Online Episode III: C.A.R.D. Revolution,GC,2003,Role-Playing,Sega,0.06,0.02,0,0,0.08,71,24,8.2,13,Sonic Team,T
+Pro Yakyuu Team o Tsukurou! 2,PS2,2003,Sports,Sega,0,0,0.23,0,0.23,65,70,0,91,,
+Sakura Wars: Atsuki Chishio Ni,PS2,2003,Role-Playing,Sega,0,0,0.24,0,0.24,60,95,0,70,,
+Sega GT Online,XB,2003,Racing,Sega,0.06,0.02,0,0,0.08,72,32,9.2,5,Wow Entertainment,T
+Sonic Adventure DX: Director's Cut,GC,2003,Platform,Sega,0.87,0.3,0.06,0.03,1.27,57,27,7.9,139,Sonic Team,E
+Sonic Heroes,XB,2003,Platform,Sega,0.41,0.43,0.01,0.05,0.9,73,28,7.6,34,Sonic Team,E
+Sonic Heroes,PS2,2003,Platform,Sega,1.04,1.37,0.06,0.49,2.96,64,29,7.8,94,Sonic Team,E
+Sonic Heroes,GC,2003,Platform,Sega,1.05,0.44,0.06,0.04,1.6,72,49,7.8,125,Sonic Team,E
+Spy Fiction,PS2,2003,Action,Sega,0.02,0.02,0,0.01,0.04,61,33,8,61,Access Games,M
+The King of Route 66,PS2,2003,Racing,Sega,0.03,0.02,0,0.01,0.06,57,21,4,88,Sega,T
+Virtua Fighter 4: Evolution,PS2,2003,Fighting,Sega,0.35,0.27,0,0.09,0.71,93,30,9,48,Sega,T
+World Series Baseball 2K3,XB,2003,Sports,Sega,0.11,0.03,0,0.01,0.15,89,22,8.6,14,Blue Shift,E
+World Series Baseball 2K3,PS2,2003,Sports,Sega,0.12,0.1,0,0.03,0.25,87,21,8.7,19,Blue Shift,E
+Worms 3D,XB,2003,Strategy,Sega,0.04,0.01,0,0,0.06,69,20,8.4,10,Team 17,T
+Worms 3D,PS2,2003,Strategy,Sega,0.06,0.05,0,0.02,0.12,70,31,7.8,22,Team 17,T
+Worms 3D,GC,2003,Strategy,Sega,0.05,0.01,0,0,0.07,69,23,7.6,19,Team 17,T
+2 in 1 Combo Pack: Sonic Heroes / Super Monkey Ball Deluxe,XB,2004,Misc,Sega,0.4,0.11,0,0.02,0.53,76,28,1,46,,
+Amazing Island,GC,2004,Strategy,Sega,0.04,0.01,0,0,0.06,59,22,6.6,7,Hitmaker,E
+Astro Boy,PS2,2004,Action,Sega,0.04,0.03,0,0.01,0.09,54,29,6.9,7,Sonic Team,E
+Blood Will Tell: Tezuka Osamu's Dororo,PS2,2004,Adventure,Sega,0.02,0.02,0,0.01,0.04,26,8,6,91,,
+ESPN College Hoops 2K5,XB,2004,Sports,Sega,0.29,0.08,0,0.01,0.38,86,18,8.3,11,Visual Concepts,E
+ESPN College Hoops 2K5,PS2,2004,Sports,Sega,0.41,0.32,0,0.11,0.84,86,14,8.1,10,Visual Concepts,E
+ESPN MLB Baseball,XB,2004,Sports,Sega,0.1,0.03,0,0,0.14,19,71,7,27,,
+ESPN MLB Baseball,PS2,2004,Sports,Sega,0.1,0.08,0,0.03,0.2,73,56,9,8,,
+ESPN NFL 2K5,XB,2004,Sports,Sega,1.54,0.02,0,0.07,1.63,92,42,9.1,93,Visual Concepts,E
+ESPN NFL 2K5,PS2,2004,Sports,Sega,2.15,0.12,0,0.36,2.62,90,37,8.2,84,Visual Concepts,E
+Feel the Magic XY/XX,DS,2004,Puzzle,Sega,0.17,0,0.1,0.02,0.29,75,55,8.1,18,Sonic Team,T
+Football Manager 2005,PC,2004,Sports,Sega,0,0.01,0,0,0.01,33,97,2,62,,
+Guess the Logos,XB,2004,Puzzle,Sega,0.02,0,0,0,0.02,66,42,1,22,,
+Headhunter: Redemption,XB,2004,Action,Sega,0.02,0,0,0,0.02,59,26,6.8,4,Amuze,M
+Headhunter: Redemption,PS2,2004,Action,Sega,0.02,0.01,0,0,0.04,62,29,6.7,7,Amuze,M
+J-League Pro Soccer Club o Tsukurou '04,PS2,2004,Sports,Sega,0,0,0.36,0,0.36,88,6,10,61,,
+OutRun 2,XB,2004,Racing,Sega,0.11,0.03,0,0.01,0.14,100,93,0,0,,
+Puyo Pop Fever,GC,2004,Puzzle,Sega,0.01,0,0,0,0.01,72,18,3,83,Sonic Team,E
+Samurai Jack: The Shadow of Aku,PS2,2004,Action,Sega,0.03,0.02,0,0.01,0.06,59,21,8.4,10,Adrenium,T
+Samurai Jack: The Shadow of Aku,GC,2004,Action,Sega,0.01,0,0,0,0.02,59,17,6,33,Adrenium,T
+Sega Superstars,PS2,2004,Misc,Sega,0.08,0.06,0,0.02,0.17,72,28,7,5,Sonic Team,T
+Seven Samurai 20XX,PS2,2004,Action,Sega,0.04,0.03,0,0.01,0.08,52,31,7,6,Dimps Corporation,T
+Shining Tears,PS2,2004,Role-Playing,Sega,0.05,0.04,0,0.01,0.09,61,14,6.5,11,Nex Entertainment,T
+Sonic Mega Collection Plus,XB,2004,Misc,Sega,0.61,0.26,0,0.04,0.91,75,20,7.9,12,Sonic Team,E
+Sonic Mega Collection Plus,PS2,2004,Misc,Sega,1.54,1.14,0,0.22,2.9,73,21,8.6,30,Sonic Team,E
+Tenchu: Fatal Shadows,PS2,2004,Action,Sega,0.09,0.07,0,0.02,0.19,58,33,8,24,K2 LLC,M
+Worldwide Soccer Manager 2006,PC,2004,Sports,Sega,0,0.01,0,0,0.02,89,20,1,95,Sports Interactive,E
+Worms Forts: Under Siege,XB,2004,Strategy,Sega,0.05,0.01,0,0,0.07,67,15,8,6,Team 17,T
+2 Games in 1: Sonic Pinball Party & Columns Crown,GBA,2005,Misc,Sega,0.04,0.02,0,0,0.06,34,9,6,47,,
+Bleach GC: Tasogare Ni Mamieru Shinigami,GC,2005,Fighting,Sega,0,0,0.08,0,0.09,77,19,10,44,,
+Condemned: Criminal Origins,X360,2005,Action,Sega,0.36,0.02,0,0.03,0.41,81,72,8.2,146,Monolith Productions,M
+Gunstar Super Heroes,GBA,2005,Shooter,Sega,0.05,0.02,0,0,0.07,83,31,8.5,13,Treasure,E10+
+Iron Phoenix,XB,2005,Fighting,Sega,0.02,0,0,0,0.02,58,11,6.5,4,InterServ International,T
+Jissen Pachi-Slot Hisshouhou! Aladdin II Evolution,PS2,2005,Misc,Sega,0,0,0.13,0,0.13,82,57,10,58,,
+Jissen Pachislot Hisshouhou! Hokuto no Ken DS,DS,2005,Misc,Sega,0,0,0.04,0,0.04,89,96,0,35,,
+Kouchuu Ouja Mushi King,GBA,2005,Action,Sega,0,0,0.7,0.02,0.72,85,97,4,47,,
+Kouchuu Ouja Mushi King: Greatest Champion e no Michi DS,DS,2005,Action,Sega,0,0,0.19,0,0.19,66,14,7,62,,
+Kumamon Bomber: Puzzle de Kumamon Taisou,GC,2005,Puzzle,Sega,0.32,0.08,0,0.01,0.42,78,84,5,59,,
+"Sakura Wars: So Long, My Love",PS2,2005,Role-Playing,Sega,0.07,0.05,0.15,0.02,0.29,81,15,7.3,26,RED Entertainment,T
+Sega Casino,DS,2005,Misc,Sega,0.08,0,0,0.01,0.09,61,13,8,53,TOSE,T
+SEGA Classics Collection,PS2,2005,Misc,Sega,0.21,0.16,0,0.05,0.43,46,18,6.7,6,Sega,T
+Shadow The Hedgehog,XB,2005,Platform,Sega,0.13,0.04,0,0.01,0.18,49,24,5.5,36,Sega,E10+
+Shadow The Hedgehog,PS2,2005,Platform,Sega,0.5,0.02,0,0.08,0.6,45,28,6,137,Sonic Team,E10+
+Shadow The Hedgehog,GC,2005,Platform,Sega,0.76,0.2,0,0.03,0.99,51,22,6.6,120,Sonic Team,E10+
+Shining Force NEO,PS2,2005,Role-Playing,Sega,0.06,0.04,0,0.01,0.11,69,12,8.1,20,Neverland,T
+Sonic Advance & Sonic Pinball Party Combo Pack,GBA,2005,Misc,Sega,0.1,0.04,0,0,0.15,24,1,10,31,,
+Sonic Rush,DS,2005,Platform,Sega,1.21,1.56,0.06,0.29,3.12,82,43,8.5,101,"Dimps Corporation, Sonic Team",E
+Spartan: Total Warrior,XB,2005,Action,Sega,0.1,0.03,0,0,0.13,73,36,8.8,12,Creative Assembly,M
+Spartan: Total Warrior,PS2,2005,Action,Sega,0.11,0.09,0,0.03,0.22,74,33,8.4,65,Creative Assembly,M
+Spartan: Total Warrior,GC,2005,Action,Sega,0.05,0.01,0,0,0.07,73,24,8.3,15,Creative Assembly,M
+Super Monkey Ball Deluxe,XB,2005,Misc,Sega,0.11,0.03,0,0.01,0.15,81,25,8.2,9,Sega,E
+Super Monkey Ball Deluxe,PS2,2005,Misc,Sega,0.12,0.09,0,0.03,0.24,78,25,7.7,13,Sega,E
+Super Monkey Ball: Touch & Roll,DS,2005,Misc,Sega,0.69,0,0,0.06,0.75,58,54,2,57,,
+The Rub Rabbits!,DS,2005,Puzzle,Sega,0.03,0,0.04,0,0.07,71,4,10,8,,
+Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center Kawashima Ryuuta Kyouju Kanshu: Nou Ryoku Trainer Portable,PSP,2005,Misc,Sega,0,0,0.3,0,0.3,58,79,4,47,,
+Virtua Tennis: World Tour (jp sales),PSP,2005,Sports,Sega,0,0,0.02,0,0.02,27,72,9,93,,
+Virtua Tennis: World Tour (US & Others sales),PSP,2005,Sports,Sega,0.16,0.36,0,0.14,0.67,62,48,2,54,,
+Yakuza,PS2,2005,Action,Sega,0.03,0.02,0.74,0.01,0.8,75,58,8.2,73,Amusement Vision,M
+Bleach: Shattered Blade,Wii,2006,Fighting,Sega,0.21,0.01,0.08,0.02,0.32,58,30,7.5,24,Polygon Magic,T
+Bleach: The Blade of Fate,DS,2006,Fighting,Sega,0.29,0.01,0.12,0.03,0.45,83,32,7.5,23,Treasure,T
+Charlotte's Web,DS,2006,Action,Sega,0.08,0,0,0.01,0.09,60,4,8,84,Backbone Entertainment,E
+Chromehounds,X360,2006,Simulation,Sega,0.24,0,0.01,0.02,0.28,71,60,7,72,From Software,T
+Derby Tsuku 5: Derby Uma o Tsukurou!,PS2,2006,Sports,Sega,0,0,0.04,0,0.04,13,100,4,0,,
+Doraemon: Nobita no Kyouryuu 2006 DS,DS,2006,Role-Playing,Sega,0,0,0.05,0,0.05,14,63,1,69,,
+Full Auto,X360,2006,Shooter,Sega,0.19,0.01,0,0.02,0.22,70,63,7.8,36,Pseudo Interactive,T
+Full Auto 2: Battlelines,PS3,2006,Racing,Sega,0.14,0.02,0,0.02,0.18,67,43,7.6,25,Pseudo Interactive,T
+Initial D: Street Stage,PSP,2006,Racing,Sega,0,0,0.1,0,0.1,13,72,10,51,,
+Jissen Pachislot Hisshouhou! Hokuto no Ken DS SE,DS,2006,Misc,Sega,0,0,0.05,0,0.05,63,32,4,21,,
+Jissen Pachislot Hisshouhou! Hokuto no Ken Portable SE,PSP,2006,Misc,Sega,0,0,0.06,0,0.06,61,63,8,90,,
+Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE,PS2,2006,Misc,Sega,0,0,0.24,0,0.24,9,78,0,73,,
+Kamaitachi no Yoru Ã— 3,PS2,2006,Adventure,Sega,0,0,0.16,0,0.16,60,52,2,32,,
+Kawashima Ryuuta Kyouju Kanshuu Nouryoku Trainer Portable 2,PSP,2006,Misc,Sega,0,0,0.09,0,0.09,58,71,7,100,,
+Kouchuu Ouja Mushi King: Greatest Champion e no Michi DS 2,DS,2006,Action,Sega,0,0,0.13,0,0.13,60,34,5,26,,
+Let's Make a Soccer Team!,PS2,2006,Sports,Sega,0,0,0.23,0,0.23,25,74,1,96,,
+Medieval II: Total War,PC,2006,Strategy,Sega,0,0.08,0,0.02,0.1,88,39,8.9,648,Creative Assembly,T
+Melty Blood: Act Cadenza,PS2,2006,Fighting,Sega,0,0,0.11,0,0.11,13,5,0,68,,
+Mystery Dungeon: Shiren the Wanderer,DS,2006,Role-Playing,Sega,0.17,0,0.33,0.02,0.52,69,27,8.2,21,ChunSoft,E
+Oshare Majo Love and Berry: DS Collection,DS,2006,Misc,Sega,0,0,1.01,0,1.01,45,64,8,73,,
+OutRun 2006: Coast 2 Coast,PSP,2006,Racing,Sega,0.03,0.01,0,0,0.04,82,31,8.1,14,Sumo Digital,E
+OutRun 2006: Coast 2 Coast,PS2,2006,Racing,Sega,0.02,0.01,0.01,0,0.05,81,42,8.8,17,Sumo Digital,E
+Phantasy Star Universe,X360,2006,Role-Playing,Sega,0.09,0.01,0,0.01,0.12,64,34,7.4,42,Sonic Team,T
+Phantasy Star Universe,PS2,2006,Role-Playing,Sega,0,0,0.19,0,0.19,68,18,8.5,23,Sonic Team,T
+Planetarium Creator Ohira Takayuki Kanshuu: HomeStar Portable - 21st Century Star Navigator,PSP,2006,Misc,Sega,0,0,0.02,0,0.02,19,39,2,8,,
+Puyo Puyo! 15th Anniversary,DS,2006,Puzzle,Sega,0,0,0.28,0,0.28,39,47,0,66,,
+Rome: Total War - Gold Edition,PC,2006,Strategy,Sega,0,0.03,0,0.01,0.03,5,56,8.6,20,Creative Assembly,T
+Sakura Wars 1 & 2,PSP,2006,Strategy,Sega,0,0,0.02,0,0.02,11,73,4,80,,
+Sega Ages 2500 Series Vol. 26: Dynamite Deka,PS2,2006,Action,Sega,0,0,0.02,0,0.02,82,62,10,9,,
+Sega Golf Club: Miyazato San Kyoudai Naizou,PS3,2006,Sports,Sega,0,0,0.01,0,0.01,50,68,3,76,,
+SNK vs. Capcom: The Match of the Millennium,PSP,2006,Fighting,Sega,0.53,0.57,0,0.34,1.43,6,97,8,15,,
+SNK vs. Capcom: The Match of the Millennium,PS2,2006,Fighting,Sega,0,0.02,0,0.12,0.14,95,70,5,74,,
+Sonic Riders,XB,2006,Racing,Sega,0.1,0.03,0,0,0.13,56,33,8.1,7,Sonic Team,E
+Sonic Riders,PS2,2006,Racing,Sega,0.42,0.02,0,0.07,0.5,55,41,7.2,25,Sonic Team,E
+Sonic Riders,GC,2006,Racing,Sega,0.71,0.18,0,0.03,0.92,59,32,8,46,Sonic Team,E
+Sonic Rivals,PSP,2006,Racing,Sega,0.73,0.42,0,0.27,1.42,64,25,7.8,38,Backbone Entertainment,E
+Sonic the Hedgehog,X360,2006,Platform,Sega,0.44,0.48,0,0.11,1.04,46,38,4.4,455,Sega,E10+
+Sonic the Hedgehog,PS3,2006,Platform,Sega,0.41,0.06,0.04,0.66,1.16,43,17,4.1,176,Sonic Team,E10+
+Sony Computer Science Kenkyuujo Mogi Kenichirou Hakase Kanshuu: Nou ni Kaikan Aha Taiken!,PSP,2006,Misc,Sega,0,0,0.07,0,0.07,61,19,1,25,,
+Super Monkey Ball Adventure,PSP,2006,Platform,Sega,0.05,0.02,0,0.01,0.08,56,23,5.9,7,TT Games,E
+Super Monkey Ball Adventure,PS2,2006,Platform,Sega,0.01,0.01,0,0,0.03,53,32,6.7,10,TT Games,E
+Super Monkey Ball Adventure,GC,2006,Platform,Sega,0.12,0.03,0,0,0.15,51,24,7.2,9,TT Games,E
+Super Monkey Ball: Banana Blitz,Wii,2006,Misc,Sega,1.05,0.91,0.04,0.24,2.24,74,53,5.7,72,Sega,E
+Tenka-bito,PS2,2006,Strategy,Sega,0,0,0.03,0,0.03,43,11,7,28,,
+Virtua Pro Football,PS2,2006,Sports,Sega,0,0,0.02,0,0.02,96,85,1,68,,
+Worldwide Soccer Manager 2007,PC,2006,Sports,Sega,0,0.02,0,0,0.02,87,17,4,11,Sports Interactive,E
+Yakuza 2,PS2,2006,Adventure,Sega,0.05,0.04,0.84,0.16,1.09,77,34,8.1,52,Amusement Vision,M
+Alien Syndrome,Wii,2007,Role-Playing,Sega,0.05,0,0,0,0.06,48,24,7.1,23,Totally Games,T
+Alien Syndrome,PSP,2007,Role-Playing,Sega,0.07,0,0,0.01,0.08,51,20,6,9,Totally Games,T
+Bleach: Dark Souls,DS,2007,Fighting,Sega,0.12,0.02,0,0.01,0.15,82,28,7.9,14,Treasure,T
+Bleach: Dark Souls (JP sales),DS,2007,Fighting,Sega,0,0,0.1,0,0.1,37,96,9,86,,
+Brain Assist,DS,2007,Misc,Sega,0.12,0,0,0.01,0.13,53,17,8,88,Sega,E
+Crazy Taxi: Fare Wars,PSP,2007,Racing,Sega,0.1,0.22,0.02,0.12,0.47,64,25,7.1,18,Sega,E10+
+Crush,PSP,2007,Puzzle,Sega,0.07,0,0,0.01,0.08,83,41,9,21,Zoe Mode,E10+
+Dinosaur King,DS,2007,Strategy,Sega,0.2,0,0,0.02,0.22,61,13,8,9,Climax Entertainment,E
+Doraemon Wii: Himitsu Douguou Ketteisen!,Wii,2007,Misc,Sega,0,0,0.01,0,0.01,74,85,9,93,,
+Doraemon: Nobita no Shin Makai Daibouken DS,DS,2007,Role-Playing,Sega,0,0,0.07,0,0.07,55,97,4,50,,
+Football Manager Handheld 2008,PSP,2007,Sports,Sega,0,0.33,0,0,0.34,59,74,4,10,,
+Ghost Squad,Wii,2007,Shooter,Sega,0.42,0.21,0.08,0.07,0.77,69,42,7.5,31,"Artificial Mind and Movement, Polygon Magic",T
+Hokuto no Ken,PS2,2007,Fighting,Sega,0,0,0.05,0,0.05,84,38,6,79,,
+Imabikisou,PS3,2007,Adventure,Sega,0,0,0.04,0,0.04,12,12,1,89,,
+Jissen Pachinko Hisshouhou! CR Sakura Taisen,PS2,2007,Misc,Sega,0,0,0.02,0,0.02,17,11,6,71,,
+Jissen Pachi-Slot Hisshouhou! Hokuto no Ken 2,PS2,2007,Misc,Sega,0,0,0.03,0,0.03,45,71,10,76,,
+Jissen Pachi-Slot Hisshouhou! Mister Magic Neo,PS2,2007,Misc,Sega,0,0,0.02,0,0.02,44,72,8,52,,
+J-League Pro Soccer Club o Tsukurou! 5,PS2,2007,Sports,Sega,0,0,0.19,0,0.19,29,68,5,54,,
+Kouchuu Ouja Mushi King: Super Collection,DS,2007,Action,Sega,0,0,0.11,0,0.11,87,21,10,100,,
+Mario & Sonic at the Olympic Games,Wii,2007,Sports,Sega,2.57,3.86,0.66,0.91,7.99,39,100,1,14,,
+NiGHTS: Journey of Dreams,Wii,2007,Platform,Sega,0.32,0.02,0.04,0.03,0.41,69,47,8.5,55,"Sega, Sonic Team",E
+Onsei Kanjou Sokuteiki: Kokoro Scan,DS,2007,Misc,Sega,0,0,0.04,0,0.04,3,23,0,88,,
+Phantasy Star Universe: Ambition of the Illuminus,PS2,2007,Role-Playing,Sega,0.1,0.08,0.05,0.03,0.26,70,3,8.4,8,Sonic Team,T
+PictoImage,DS,2007,Puzzle,Sega,0.09,0,0,0.01,0.1,61,11,5,80,Sega,E
+Puyo Puyo! 15th Anniversary,PSP,2007,Puzzle,Sega,0,0,0.02,0,0.02,40,7,0,19,,
+San Goku Shi Taisen DS,DS,2007,Strategy,Sega,0,0,0.16,0,0.16,10,41,4,61,,
+Seaman 2: Peking Genjin Ikusei Kit,PS2,2007,Simulation,Sega,0,0,0.06,0,0.06,10,91,3,100,,
+Sega Ages 2500 Series Vol. 29: Monster World Complete Collection,PS2,2007,Role-Playing,Sega,0,0,0.02,0,0.02,33,75,10,44,,
+Sega Rally Revo,X360,2007,Racing,Sega,0.12,0.28,0,0.05,0.45,77,42,7.2,30,SEGA Racing Studio,E
+Sega Rally Revo,PSP,2007,Racing,Sega,0.03,0.15,0,0.07,0.25,74,14,7.2,9,Bugbear,E
+Sega Rally Revo,PS3,2007,Racing,Sega,0.07,0.42,0,0.14,0.63,75,40,7,20,SEGA Racing Studio,E
+Sega Rally Revo,PC,2007,Racing,Sega,0,0.01,0,0,0.01,74,9,7.6,18,SEGA Racing Studio,E
+Shining Force EXA,PS2,2007,Role-Playing,Sega,0,0,0.1,0,0.1,64,24,7.3,17,Neverland,E10+
+Shining Wind,PS2,2007,Role-Playing,Sega,0,0,0.13,0,0.13,56,12,10,3,,
+Sonic and the Secret Rings,Wii,2007,Platform,Sega,1.21,1.19,0.04,0.29,2.73,69,44,6.6,174,Sonic Team,E
+Sonic Rivals 2,PSP,2007,Racing,Sega,0.44,0.67,0,0.37,1.48,60,24,7.8,35,Backbone Entertainment,E
+Sonic Rush Adventure,DS,2007,Platform,Sega,0.53,0.48,0.01,0.12,1.15,78,32,8.2,66,Dimps Corporation,E
+The Golden Compass,X360,2007,Action,Sega,0.3,0.12,0,0.04,0.46,41,25,4.1,14,Shiny Entertainment,E10+
+The Golden Compass,PS3,2007,Action,Sega,0.14,0.1,0,0.05,0.28,40,17,4.8,16,Shiny Entertainment,E10+
+The Golden Compass,PS2,2007,Action,Sega,0.13,0,0,0.39,0.52,46,10,5.2,6,Shiny Entertainment,E10+
+The Golden Compass,DS,2007,Action,Sega,0.28,0.25,0,0.06,0.6,43,7,4.9,8,Artificial Mind and Movement,E10+
+Virtua Fighter 5,PS3,2007,Fighting,Sega,0.29,0.51,0.08,0.2,1.08,85,47,7.4,67,Sega AM2,T
+Virtua Fighter 5 Online,X360,2007,Fighting,Sega,0.2,0.02,0.03,0.02,0.28,89,36,7.6,62,Sega AM2,T
+Virtua Tennis 3,X360,2007,Sports,Sega,0.03,0.01,0,0,0.04,80,34,6.8,26,Sumo Digital,E
+Virtua Tennis 3,PSP,2007,Sports,Sega,0.02,0.02,0,0.01,0.05,79,17,7.7,13,Sumo Digital,E
+Virtua Tennis 3,PS3,2007,Sports,Sega,0.23,0.58,0.03,0.21,1.05,80,35,7.9,32,Sega AM3,E
+Virtua Tennis 3,PC,2007,Sports,Sega,0,0.01,0,0,0.01,61,52,7.4,17,Sumo Digital,E
+World Snooker Championship 2007,X360,2007,Sports,Sega,0,0.01,0,0,0.01,46,15,10,44,,
+World Snooker Championship 2007,PS3,2007,Sports,Sega,0,0.1,0,0,0.1,13,56,6,8,,
+428: Fuusa Sareta Shibuya de,Wii,2008,Adventure,Sega,0,0,0.13,0,0.13,17,0,2,0,,
+Beijing 2008,X360,2008,Sports,Sega,0.15,0.38,0,0.07,0.59,10,78,5,58,,
+Beijing 2008,PS3,2008,Sports,Sega,0.14,0.54,0.01,0.18,0.86,25,53,10,51,,
+Blazer Drive,DS,2008,Role-Playing,Sega,0,0,0.01,0,0.01,86,30,3,80,,
+Bleach: The 3rd Phantom,DS,2008,Role-Playing,Sega,0.1,0.02,0.07,0.01,0.2,59,28,8,10,"Sega, Tom Create",T
+Bleach: Versus Crusade,Wii,2008,Fighting,Sega,0,0,0.06,0,0.06,28,83,10,5,,
+Condemned 2: Bloodshot,X360,2008,Action,Sega,0.38,0.19,0,0.06,0.63,80,76,8.4,178,Monolith Productions,M
+Condemned 2: Bloodshot,PS3,2008,Action,Sega,0.17,0.16,0,0.06,0.39,82,37,8.1,89,Monolith Productions,M
+Crimson Gem Saga,PSP,2008,Role-Playing,Sega,0.06,0,0,0,0.06,78,20,7.5,30,"IronNos Co.,Ltd.",T
+Culdcept DS,DS,2008,Strategy,Sega,0,0,0.1,0,0.1,51,85,6,40,,
+Doraemon: Nobita to Midori no Kyojinden DS,DS,2008,Platform,Sega,0,0,0.09,0,0.09,33,19,4,11,,
+Dramatic Dungeon: Sakura Wars - Kimi Arugatame,DS,2008,Role-Playing,Sega,0,0,0.05,0,0.05,28,24,3,21,,
+Football Manager Handheld 2009,PSP,2008,Sports,Sega,0,0.47,0,0.02,0.48,92,28,0,86,,
+Golden Axe: Beast Rider,X360,2008,Action,Sega,0.19,0.11,0,0.03,0.33,45,33,5.8,33,Secret Level,M
+Golden Axe: Beast Rider,PS3,2008,Action,Sega,0.13,0.14,0,0.06,0.32,44,30,5.6,23,Secret Level,M
+Initial D: Extreme Stage,PS3,2008,Racing,Sega,0,0,0.08,0,0.08,59,0,8,60,,
+Iron Man,X360,2008,Action,Sega,0.27,0.24,0,0.06,0.57,45,43,5.9,52,Secret Level,T
+Iron Man,Wii,2008,Action,Sega,0.3,0.22,0,0.06,0.59,44,14,7,8,Artificial Mind and Movement,T
+Iron Man,PSP,2008,Action,Sega,0.46,0.09,0,0.09,0.63,44,7,6.5,16,Artificial Mind and Movement,T
+Iron Man,PS3,2008,Action,Sega,0.32,0.25,0,0.11,0.68,42,27,6.2,45,Secret Level,T
+Iron Man,PS2,2008,Action,Sega,0.36,0,0,0.19,0.54,47,8,5.6,15,Artificial Mind and Movement,T
+Iron Man,DS,2008,Action,Sega,0.35,0.12,0,0.05,0.51,56,10,7,4,Artificial Mind and Movement,E10+
+Let's TAP,Wii,2008,Misc,Sega,0.08,0.06,0.01,0.02,0.17,70,47,6.6,11,Prope,E
+Mario & Sonic at the Olympic Games,DS,2008,Sports,Sega,1.63,2.45,0.44,0.57,5.09,24,24,3,15,,
+Medieval II: Total War Gold Edition,PC,2008,Strategy,Sega,0,0.34,0,0.03,0.37,7,99,8,9,Sega,T
+Nancy Drew: The White Wolf of Icicle Creek,Wii,2008,Adventure,Sega,0.14,0,0,0.01,0.15,67,9,8,17,Her Interactive,E
+NiGHTS into dreams...,PS2,2008,Platform,Sega,0,0,0.01,0,0.01,37,47,1,35,,
+Oshiri Kajiri Mushi no Rhythm Lesson DS: Kawai Ongaku Kyoushitsu Kanshuu,DS,2008,Misc,Sega,0,0,0.02,0,0.02,77,11,5,98,,
+Phantasy Star Ã˜,DS,2008,Role-Playing,Sega,0.16,0,0.2,0.01,0.38,32,26,7,22,,
+Phantasy Star Portable,PSP,2008,Role-Playing,Sega,0.19,0.06,0.63,0.05,0.94,64,38,7.8,19,Alfa System,T
+Pro Yakyuu Team o Tsukurou!,DS,2008,Sports,Sega,0,0,0.19,0,0.19,59,81,3,27,,
+Ryu Ga Gotoku Kenzan!,PS3,2008,Adventure,Sega,0,0,0.36,0,0.36,24,74,6,55,,
+Saka-Tsuku DS: Touch and Direct,DS,2008,Sports,Sega,0,0,0.23,0,0.23,31,51,6,34,,
+Samba De Amigo,Wii,2008,Misc,Sega,0.41,0.37,0.01,0.09,0.88,68,43,8.1,40,Gearbox Software,E
+San Goku Shi Taisen Ten,DS,2008,Strategy,Sega,0,0,0.07,0,0.07,16,28,3,54,,
+Sands of Destruction,DS,2008,Role-Playing,Sega,0.09,0,0.13,0.01,0.23,63,20,7.9,18,"Image Epoch, Imageepoch",T
+Sega Ages 2500 Series Vol. 32: Phantasy Star Complete Collection,PS2,2008,Role-Playing,Sega,0,0,0.02,0,0.02,33,35,4,27,,
+Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection,PS2,2008,Shooter,Sega,0,0,0.04,0,0.04,67,81,4,48,,
+Sega Bass Fishing,Wii,2008,Sports,Sega,0.45,0.01,0,0.04,0.5,59,29,6.3,9,Cavia Inc.,E
+Sega Superstars Tennis,X360,2008,Sports,Sega,1.75,0.86,0,0.28,2.89,67,45,6.8,18,Sumo Digital,E10+
+Sega Superstars Tennis,Wii,2008,Sports,Sega,0.28,0.65,0,0.13,1.05,71,24,7,16,Sumo Digital,E10+
+Sega Superstars Tennis,PS3,2008,Sports,Sega,0.13,0.2,0,0.07,0.4,67,31,7.4,7,Sumo Digital,E10+
+Sega Superstars Tennis,PS2,2008,Sports,Sega,0.1,0,0,0.28,0.38,70,9,8.3,4,Sumo Digital,E10+
+Sega Superstars Tennis,DS,2008,Sports,Sega,0.29,0.37,0,0.08,0.74,65,19,10,8,Sumo Digital,E
+Shiren the Wanderer,Wii,2008,Role-Playing,Sega,0.08,0,0.11,0.01,0.19,71,21,7.6,5,ChunSoft,T
+Sonic Chronicles: The Dark Brotherhood,DS,2008,Role-Playing,Sega,0.5,0.29,0.01,0.08,0.88,74,55,7.3,81,BioWare,E
+Sonic Riders: Zero Gravity,Wii,2008,Racing,Sega,0.48,0.32,0.02,0.09,0.91,56,26,8.1,57,Sonic Team,E
+Sonic Riders: Zero Gravity,PS2,2008,Racing,Sega,0.09,0.07,0,0.02,0.18,56,16,8.3,27,Sonic Team,E
+Sonic Unleashed,X360,2008,Platform,Sega,0.54,0.32,0,0.09,0.95,60,50,7.8,238,Sonic Team,E10+
+Sonic Unleashed,Wii,2008,Platform,Sega,1.26,0.67,0.02,0.21,2.16,66,30,7.3,136,Sonic Team,E10+
+Sonic Unleashed,PS3,2008,Platform,Sega,0.56,0.32,0.01,0.14,1.02,54,24,7.9,130,Sonic Team,E10+
+Sonic Unleashed,PS2,2008,Platform,Sega,0.37,0.04,0,0.36,0.76,66,5,6.7,49,Sonic Team,E10+
+The Club,X360,2008,Shooter,Sega,0.15,0.1,0,0.02,0.27,76,63,6.8,43,Bizarre Creations,M
+The Club,PS3,2008,Shooter,Sega,0.14,0.07,0,0.03,0.23,72,42,6.5,15,Bizarre Creations,M
+The House of the Dead 2 & 3 Return,Wii,2008,Shooter,Sega,0.77,0.49,0.03,0.15,1.44,5,38,9,78,,
+The Incredible Hulk,X360,2008,Action,Sega,0.22,0.02,0,0.02,0.26,55,42,6.4,24,Edge of Reality,T
+The Incredible Hulk,Wii,2008,Action,Sega,0.28,0.01,0,0.02,0.31,46,21,8,63,Edge of Reality,T
+The Incredible Hulk,PS3,2008,Action,Sega,0.22,0.02,0,0.02,0.26,55,26,6.8,20,Edge of Reality,T
+The Incredible Hulk,PS2,2008,Action,Sega,0.32,0.01,0,0.05,0.38,50,4,6,5,Edge of Reality,T
+The Incredible Hulk,DS,2008,Action,Sega,0.22,0,0,0.02,0.24,50,15,5,13,Amaze Entertainment,E10+
+Thunder Force VI,PS2,2008,Shooter,Sega,0,0,0.02,0,0.02,23,38,7,2,,
+Universe at War: Earth Assault,X360,2008,Action,Sega,0.09,0.01,0,0.01,0.1,66,44,8.3,57,Petroglyph,T
+Valkyria Chronicles,PS3,2008,Role-Playing,Sega,0.71,0.19,0.24,0.13,1.27,86,60,8.6,433,Sega,T
+Viking: Battle for Asgard,X360,2008,Action,Sega,0.16,0.23,0,0.05,0.44,68,67,8,88,Creative Assembly,M
+Viking: Battle for Asgard,PS3,2008,Action,Sega,0.14,0.17,0,0.07,0.38,65,38,7.4,32,Creative Assembly,M
+Worldwide Soccer Manager 2009,PC,2008,Simulation,Sega,0,1.14,0,0.01,1.15,83,29,8.1,30,Sports Interactive,E
+Yume Neko DS,DS,2008,Simulation,Sega,0,0,0.02,0,0.02,46,67,10,15,,
+7th Dragon,DS,2009,Role-Playing,Sega,0,0,0.14,0,0.14,79,46,6,82,,
+Bayonetta,X360,2009,Action,Sega,0.51,0.25,0.09,0.08,0.93,90,86,8,597,PlatinumGames,M
+Bayonetta,PS3,2009,Action,Sega,0.44,0.39,0.21,0.16,1.21,87,54,7.7,355,Nex Entertainment,M
+Bleach DS 4th: Flame Bringer,DS,2009,Action,Sega,0,0,0.03,0,0.03,66,5,1,75,,
+Empire: Total War,PC,2009,Strategy,Sega,0.01,0.97,0,0.1,1.08,90,62,6.9,2981,Creative Assembly,T
+Football Manager 2010,PC,2009,Sports,Sega,0,0.06,0,0.01,0.07,87,33,9,262,Sports Interactive,E
+Football Manager Handheld 2010,PSP,2009,Sports,Sega,0,0.26,0,0.09,0.35,69,10,6.9,7,Sports Interactive,E
+Football Manager Live,PC,2009,Sports,Sega,0,0.01,0,0,0.01,82,23,3.1,45,Sports Interactive,
+Hatsune Miku: Project Diva,PSP,2009,Misc,Sega,0,0,0.26,0,0.26,32,62,0,58,,
+Infinite Space,DS,2009,Role-Playing,Sega,0.06,0.05,0.07,0.01,0.2,75,46,9,61,PlatinumGames,T
+Jambo! Safari Animal Rescue,Wii,2009,Simulation,Sega,0.07,0.01,0,0.01,0.09,46,11,7,18,,
+Jambo! Safari Animal Rescue,DS,2009,Simulation,Sega,0.01,0,0,0,0.01,25,79,9,7,,
+J-League Pro Soccer Club o Tsukurou! 6: Pride of J,PSP,2009,Sports,Sega,0,0,0.16,0,0.16,21,39,1,18,,
+MadWorld,Wii,2009,Action,Sega,0.45,0.23,0.02,0.07,0.77,81,74,8.6,176,PlatinumGames,M
+Mario & Sonic at the Olympic Winter Games,Wii,2009,Sports,Sega,1.87,1.96,0.22,0.48,4.53,97,55,0,54,,
+Mario & Sonic at the Olympic Winter Games,DS,2009,Sports,Sega,1.21,1.62,0.27,0.37,3.46,38,23,9,5,,
+Phantasy Star Portable 2,PSP,2009,Role-Playing,Sega,0.08,0.11,0.62,0.06,0.87,69,27,8.1,35,Alfa System,T
+Planet 51,X360,2009,Action,Sega,0.07,0.03,0,0.01,0.11,53,13,9,46,Pyro Studios,E
+Planet 51,Wii,2009,Action,Sega,0.17,0.01,0,0.02,0.2,53,6,5.8,4,Pyro Studios,E
+Planet 51,PS3,2009,Action,Sega,0.07,0.03,0,0.01,0.11,50,11,5,8,Pyro Studios,E
+Planet 51,DS,2009,Action,Sega,0.22,0.14,0,0.04,0.39,71,5,3,42,Firebrand Games,E
+Pro Yakyuu Team o Tsukurou! 2,DS,2009,Sports,Sega,0,0,0.11,0,0.11,60,57,1,60,,
+Puyo Puyo 7,Wii,2009,Puzzle,Sega,0,0,0.05,0,0.05,21,34,6,37,,
+Puyo Puyo 7,PSP,2009,Puzzle,Sega,0,0,0.03,0,0.03,69,25,0,100,,
+Puyo Puyo 7,DS,2009,Puzzle,Sega,0,0,0.3,0,0.3,75,63,2,3,,
+Shining Force Feather,DS,2009,Strategy,Sega,0,0,0.06,0,0.06,25,59,1,38,,
+Sonic and the Black Knight,Wii,2009,Platform,Sega,0.64,0.34,0.01,0.1,1.09,54,51,6.9,198,Sonic Team,E10+
+Sonic PC Collection,PC,2009,Misc,Sega,0,0.04,0,0,0.04,50,36,1,97,,
+Sonic's Ultimate Genesis Collection,X360,2009,Misc,Sega,0.85,0.43,0,0.13,1.41,79,45,8.5,40,Backbone Entertainment,E10+
+Sonic's Ultimate Genesis Collection,PS3,2009,Misc,Sega,1.34,0.6,0,0.31,2.26,80,35,8.6,43,Backbone Entertainment,E10+
+Stormrise,X360,2009,Strategy,Sega,0.11,0.03,0,0.01,0.15,48,36,6.8,17,Creative Assembly,M
+Stormrise,PS3,2009,Strategy,Sega,0.13,0.02,0,0.02,0.17,51,28,5.3,20,Creative Assembly,M
+Stormrise,PC,2009,Strategy,Sega,0,0.02,0,0,0.02,42,15,4.9,22,Creative Assembly,M
+Suzumiya Haruhi no Chokuretsu,DS,2009,Adventure,Sega,0,0,0.03,0,0.03,86,97,9,75,,
+Suzumiya Haruhi no Heiretsu,Wii,2009,Adventure,Sega,0,0,0.02,0,0.02,11,25,3,55,,
+The Conduit,Wii,2009,Shooter,Sega,0.28,0.23,0,0.06,0.57,69,79,8.2,258,High Voltage Software,T
+The Hardy Boys: Treasure on the Tracks,DS,2009,Adventure,Sega,0.1,0,0,0.01,0.11,65,9,6,89,Her Interactive,E
+The House of the Dead: Overkill,Wii,2009,Shooter,Sega,0.44,0.3,0.02,0.09,0.85,78,65,8.7,95,Headstrong Games,M
+Virtua Tennis 2009,X360,2009,Sports,Sega,0.12,0.18,0,0.03,0.33,70,43,6.2,15,Sumo Digital,E
+Virtua Tennis 2009,Wii,2009,Sports,Sega,0.12,0.21,0,0.04,0.37,73,33,7.7,21,Sumo Digital,E
+Virtua Tennis 2009,PS3,2009,Sports,Sega,0.09,0.22,0,0.06,0.38,70,34,6.3,21,Sumo Digital,E
+Wacky World of Sports,Wii,2009,Sports,Sega,0.08,0,0,0.01,0.09,45,10,8,76,Tabot,E10+
+Yakuza 3,PS3,2009,Action,Sega,0.21,0.2,0.62,0.08,1.12,79,77,8.1,165,Ryu ga Gotoku Studios,M
+Aliens vs Predator,X360,2010,Shooter,Sega,0.55,0.4,0,0.11,1.06,64,64,7.3,247,Rebellion,M
+Aliens vs Predator,PS3,2010,Shooter,Sega,0.41,0.46,0,0.18,1.04,65,57,7.3,168,Rebellion,M
+Aliens vs Predator,PC,2010,Shooter,Sega,0,0.17,0,0.02,0.19,68,35,7.4,985,Rebellion,M
+Alpha Protocol,X360,2010,Role-Playing,Sega,0.23,0.12,0,0.04,0.39,63,68,7.2,201,Obsidian Entertainment,M
+Alpha Protocol,PS3,2010,Role-Playing,Sega,0.19,0.17,0,0.07,0.43,64,49,6.9,117,Obsidian Entertainment,M
+Alpha Protocol,PC,2010,Role-Playing,Sega,0,0.03,0,0.01,0.03,72,25,7.5,511,Obsidian Entertainment,M
+Dennou Senki Virtual-On Force,X360,2010,Fighting,Sega,0,0,0.03,0,0.03,22,29,2,94,,
+Football Manager 2011,PC,2010,Sports,Sega,0,1.01,0,0.25,1.26,85,23,8.4,77,Sports Interactive,E
+Football Manager Handheld 2011,PSP,2010,Sports,Sega,0,0.27,0,0.14,0.41,77,5,7.7,6,Sports Interactive,E
+Gunblade NY & L.A. Machineguns Arcade Hits Pack,Wii,2010,Shooter,Sega,0.06,0.01,0,0.01,0.07,9,13,8,74,,
+Hatsune Miku: Project Diva 2nd,PSP,2010,Misc,Sega,0,0,0.41,0,0.41,15,23,6,82,,
+Iron Man 2,X360,2010,Action,Sega,0.15,0.09,0,0.03,0.27,41,35,5.9,54,Sega Studios San Francisco,T
+Iron Man 2,Wii,2010,Action,Sega,0.15,0.15,0,0.03,0.32,41,11,4.6,12,High Voltage Software,T
+Iron Man 2,PSP,2010,Action,Sega,0.18,0.12,0,0.07,0.38,49,8,8,4,High Voltage Software,T
+Iron Man 2,PS3,2010,Action,Sega,0.14,0.18,0,0.07,0.39,41,28,5.2,36,Sega Studios San Francisco,T
+Iron Man 2,DS,2010,Action,Sega,0.14,0.16,0,0.03,0.33,54,7,7,12,Sega Studios San Francisco,E10+
+K-ON! Houkago Live!!,PSP,2010,Misc,Sega,0,0,0.25,0,0.25,12,96,1,44,,
+Kurohyou: Ryu ga Gotoku Shinshou,PSP,2010,Adventure,Sega,0,0,0.29,0,0.29,44,71,10,56,,
+Lilpri DS: Hime-Chen! Apple Pink,DS,2010,Adventure,Sega,0,0,0.02,0,0.02,83,26,2,84,,
+Napoleon: Total War,PC,2010,Strategy,Sega,0.02,0.53,0,0.12,0.66,81,56,7.9,515,Creative Assembly,T
+Resonance of Fate,X360,2010,Role-Playing,Sega,0.12,0.13,0.06,0.03,0.33,74,43,7.7,96,Tri-Ace,T
+Resonance of Fate,PS3,2010,Role-Playing,Sega,0.2,0.21,0.24,0.08,0.73,72,42,8,136,Tri-Ace,T
+Shining Hearts,PSP,2010,Role-Playing,Sega,0,0,0.2,0,0.2,77,0,1,54,,
+Soccer Tsuku DS: World Challenge 2010,DS,2010,Sports,Sega,0,0,0.13,0,0.13,65,83,9,79,,
+Sonic & Sega All-Stars Racing,Wii,2010,Racing,Sega,0.61,0.68,0,0.15,1.44,47,89,8,94,,
+Sonic & Sega All-Stars Racing,PS3,2010,Racing,Sega,0.36,0.43,0,0.16,0.95,53,59,0,44,,
+Sonic & Sega All-Stars Racing,DS,2010,Racing,Sega,0.43,0.5,0,0.11,1.04,49,25,7,92,,
+Sonic & SEGA All-Stars Racing with Banjo-Kazooie,X360,2010,Racing,Sega,0.37,0.32,0,0.07,0.76,57,84,3,24,,
+Sonic Classic Collection,DS,2010,Platform,Sega,0.92,0.73,0,0.17,1.83,70,24,7.5,28,Creative Assembly,E
+Sonic Colors,Wii,2010,Platform,Sega,0.92,0.6,0.01,0.15,1.68,78,58,8.5,301,Sonic Team,E
+Sonic Colors,DS,2010,Platform,Sega,0.69,0.47,0.01,0.12,1.29,79,26,7.9,66,Dimps Corporation,E
+Sonic Free Riders,X360,2010,Racing,Sega,0.74,0.25,0,0.09,1.09,47,52,2.1,98,Sega,E
+Super Monkey Ball: Step & Roll,Wii,2010,Action,Sega,0.15,0.19,0,0.04,0.39,30,55,4,53,,
+Tournament of Legends,Wii,2010,Fighting,Sega,0.04,0.02,0,0.01,0.06,45,38,6.9,11,High Voltage Software,T
+Valkyria Chronicles II,PSP,2010,Role-Playing,Sega,0.12,0.15,0.18,0.09,0.53,83,54,8.1,67,Sega,T
+Vancouver 2010 - The Official Video Game of the Olympic Winter Games,X360,2010,Sports,Sega,0.08,0.12,0,0.02,0.23,97,3,3,62,,
+Vancouver 2010 - The Official Video Game of the Olympic Winter Games,PS3,2010,Sports,Sega,0.09,0.19,0,0.07,0.34,65,0,0,19,,
+Vanquish,X360,2010,Shooter,Sega,0.19,0.16,0.03,0.04,0.42,84,70,8.4,182,PlatinumGames,M
+Vanquish,PS3,2010,Shooter,Sega,0.21,0.21,0.11,0.08,0.61,84,61,8.1,304,PlatinumGames,M
+7th Dragon 2020,PSP,2011,Role-Playing,Sega,0,0,0.2,0,0.2,83,51,10,66,,
+Aliens: Infestation,DS,2011,Action,Sega,0.09,0.05,0,0.02,0.16,76,43,8.2,29,"Gearbox Software, WayForward",T
+Captain America: Super Soldier,X360,2011,Action,Sega,0.11,0.05,0,0.01,0.17,60,48,6.4,37,Next Level Games,T
+Captain America: Super Soldier,PS3,2011,Action,Sega,0.1,0.06,0,0.03,0.19,61,34,7.3,40,Next Level Games,T
+Captain America: Super Soldier,3DS,2011,Action,Sega,0.05,0.02,0,0.01,0.08,51,9,5,6,High Voltage Software,T
+Conduit 2,Wii,2011,Shooter,Sega,0.07,0.04,0,0.01,0.12,64,51,7.6,60,High Voltage Software,T
+Dreamcast Collection,X360,2011,Misc,Sega,0.16,0.06,0,0.02,0.24,53,31,5.2,10,Sega,T
+Football Manager 2012,PSP,2011,Sports,Sega,0,0.09,0,0.04,0.13,68,66,1,88,,
+Football Manager 2012,PC,2011,Sports,Sega,0.02,1.16,0,0.33,1.51,84,45,8,172,Sports Interactive,E
+Hatsune Miku: Project Diva Extend,PSP,2011,Misc,Sega,0,0,0.33,0,0.33,35,0,2,94,,
+J-League Pro Soccer Club o Tsukurou! 7 Euro Plus,PSP,2011,Sports,Sega,0,0,0.21,0,0.21,65,83,2,34,,
+Mario & Sonic at the London 2012 Olympic Games,Wii,2011,Sports,Sega,1.12,1.87,0.27,0.45,3.72,65,2,0,95,,
+Phantasy Star Portable 2: Infinity,PSP,2011,Role-Playing,Sega,0,0,0.37,0,0.37,92,96,7,57,,
+Puyo Puyo!! 20th Anniversary,DS,2011,Puzzle,Sega,0,0,0.14,0,0.14,66,97,5,91,,
+Puyo Puyo!! 20th Anniversary,3DS,2011,Puzzle,Sega,0,0,0.13,0,0.13,43,93,6,67,,
+Rise of Nightmares,X360,2011,Action,Sega,0.28,0.13,0.01,0.04,0.47,54,56,7.8,44,Sega,M
+Shinobi,3DS,2011,Platform,Sega,0.14,0.07,0,0.02,0.22,69,33,7.3,33,Griptonite Games,T
+Sonic Generations,X360,2011,Platform,Sega,0.71,0.53,0,0.13,1.38,77,49,8.3,340,"Sega, Sonic Team",E
+Sonic Generations,PS3,2011,Platform,Sega,0.6,0.69,0.02,0.26,1.58,76,38,8.2,253,Sega,E
+Sonic Generations,PC,2011,Platform,Sega,0.02,0.07,0,0.02,0.11,77,11,8.3,337,Sega,E
+Sonic Generations,3DS,2011,Platform,Sega,0.44,0.47,0.01,0.09,1.02,66,29,6.9,108,"Sega, Dimps Corporation",E
+Super Monkey Ball 3D,3DS,2011,Action,Sega,0.26,0.15,0.05,0.04,0.49,55,57,5.5,31,Sega,E
+The House of the Dead: Overkill - Extended Cut,PS3,2011,Shooter,Sega,0.15,0.16,0,0.06,0.37,53,94,3,32,,
+Thor: God of Thunder,X360,2011,Action,Sega,0.09,0.04,0,0.01,0.14,38,40,5.7,22,Liquid Entertainment,T
+Thor: God of Thunder,Wii,2011,Action,Sega,0.1,0.04,0,0.01,0.15,56,14,8,9,Red Fly Studio,T
+Thor: God of Thunder,PS3,2011,Action,Sega,0.07,0.05,0,0.02,0.14,39,35,4.4,19,Liquid Entertainment,T
+Thor: God of Thunder,DS,2011,Action,Sega,0.08,0.03,0,0.01,0.12,64,18,7.2,9,WayForward,E10+
+Thor: God of Thunder,3DS,2011,Action,Sega,0.06,0.03,0,0.01,0.1,55,10,4.2,5,Red Fly Studio,T
+Total War: Shogun 2,PC,2011,Strategy,Sega,0.19,0.31,0,0.09,0.6,90,62,8.3,1180,Creative Assembly,T
+Virtua Tennis 4,X360,2011,Sports,Sega,0.11,0.09,0.01,0.02,0.23,70,37,6.2,12,Sega,E
+Virtua Tennis 4,Wii,2011,Sports,Sega,0.05,0.08,0,0.01,0.14,65,15,7.5,4,Sega,E
+Virtua Tennis 4,PS3,2011,Sports,Sega,0.09,0.24,0.03,0.08,0.44,69,49,6.6,28,Sega,E
+Virtua Tennis 4,PC,2011,Sports,Sega,0,0.03,0,0.01,0.04,66,5,7.3,43,Sega,E
+Virtua Tennis 4: World Tour,PSV,2011,Sports,Sega,0.04,0.28,0.01,0.09,0.42,32,45,9,44,,
+Yakuza: Dead Souls,PS3,2011,Shooter,Sega,0.09,0.06,0.42,0.03,0.6,64,55,7.4,69,Ryu ga Gotoku Studios,M
+Anarchy Reigns,X360,2012,Action,Sega,0.12,0.02,0.02,0.01,0.17,73,38,7.9,105,PlatinumGames,M
+Anarchy Reigns,PS3,2012,Action,Sega,0.1,0.03,0.06,0.02,0.2,71,35,8.2,106,PlatinumGames,M
+Binary Domain,X360,2012,Action,Sega,0.09,0.06,0.02,0.02,0.19,74,43,8,185,Sega,M
+Binary Domain,PS3,2012,Action,Sega,0.09,0.07,0.14,0.03,0.33,72,33,8.2,179,Sega,M
+Crush3D,3DS,2012,Platform,Sega,0.07,0.04,0,0.01,0.12,71,32,7.4,16,Zoe Mode,E10+
+Football Manager 2013,PC,2012,Sports,Sega,0,0.95,0,0.21,1.15,86,37,6.7,228,Sports Interactive,
+Hatsune Miku and Future Stars: Project Mirai,3DS,2012,Misc,Sega,0,0,0.18,0,0.18,65,58,2,56,,
+Hatsune Miku: Project Diva f,PSV,2012,Misc,Sega,0,0,0.23,0,0.23,81,10,8,90,Sega,T
+Jissen Pachislot Secrets! Fist of the North Star F - Seikimatsu Kyuuseishu Densetsu,PS3,2012,Action,Sega,0,0,0.06,0,0.06,71,85,4,98,,
+K-On! After School Live!! HD Ver.,PS3,2012,Action,Sega,0,0,0.03,0,0.03,29,30,8,99,,
+Kurohyou 2: Ryu ga Gotoku Ashura Hen,PSP,2012,Action,Sega,0,0,0.2,0,0.2,10,38,2,8,,
+London 2012: The Official Video Game of the Olympic Games,X360,2012,Sports,Sega,0.07,0.44,0,0.07,0.58,91,45,10,100,,
+London 2012: The Official Video Game of the Olympic Games,PS3,2012,Sports,Sega,0.06,0.48,0,0.14,0.67,9,38,5,48,,
+Mario & Sonic at the London 2012 Olympic Games,3DS,2012,Sports,Sega,0.18,0.64,0.27,0.09,1.18,87,33,2,58,,
+Rhythm Thief & the Emperor's Treasure,3DS,2012,Misc,Sega,0.07,0.07,0.12,0.01,0.27,78,2,7,71,,
+Samurai & Dragons,PSV,2012,Action,Sega,0,0,0.02,0,0.02,18,33,4,12,,
+Shining Blade,PSP,2012,Role-Playing,Sega,0,0,0.2,0,0.2,17,73,7,56,,
+Sonic & All-Stars Racing Transformed,X360,2012,Racing,Sega,0.2,0.33,0,0.05,0.58,74,27,0,4,,
+Sonic & All-Stars Racing Transformed,WiiU,2012,Racing,Sega,0.19,0.26,0.02,0.04,0.51,66,90,4,37,,
+Sonic & All-Stars Racing Transformed,PSV,2012,Racing,Sega,0.09,0.2,0,0.09,0.38,74,73,7,97,,
+Sonic & All-Stars Racing Transformed,PS3,2012,Racing,Sega,0.08,0.3,0.01,0.09,0.49,36,88,8,53,,
+Sonic & All-Stars Racing Transformed,3DS,2012,Racing,Sega,0.12,0.14,0,0.02,0.29,13,85,2,52,,
+Total War: Shogun 2 - Fall of the Samurai,PC,2012,Strategy,Sega,0.07,0.1,0,0.02,0.2,56,96,9,29,,
+Yakuza,PS3,2012,Action,Sega,0,0,0.11,0,0.11,36,93,4,17,,
+Yakuza 5,PS3,2012,Action,Sega,0,0,0.59,0,0.59,83,34,8.5,180,Ryu ga Gotoku Studios,M
+7th Dragon 2020-II,PSP,2013,Role-Playing,Sega,0,0,0.13,0,0.13,1,71,2,57,,
+Aliens: Colonial Marines,X360,2013,Shooter,Sega,0.36,0.34,0,0.07,0.77,48,47,3.8,449,Gearbox Software,M
+Aliens: Colonial Marines,PS3,2013,Shooter,Sega,0.2,0.29,0,0.11,0.6,43,25,3.6,295,Gearbox Software,M
+Aliens: Colonial Marines,PC,2013,Shooter,Sega,0.1,0.06,0,0.02,0.18,45,40,3.5,1156,Gearbox Software,M
+Football Manager 2014,PSV,2013,Sports,Sega,0,0.08,0,0.02,0.1,64,72,7,76,,
+Football Manager 2014,PC,2013,Sports,Sega,0,0.6,0,0.03,0.64,85,41,5.5,275,Sports Interactive,E
+Hatsune Miku: Project Diva f,PS3,2013,Misc,Sega,0.08,0,0.19,0.02,0.28,73,10,8.4,108,Sega,T
+Hatsune Miku: Project Mirai 2,3DS,2013,Action,Sega,0,0,0.22,0,0.22,51,37,7,66,,
+J.League Pro Soccer Club o Tsukurou! 8 Euro Plus,PSP,2013,Sports,Sega,0,0,0.04,0,0.04,5,26,5,23,,
+Phantasy Star Online 2,PSV,2013,Role-Playing,Sega,0,0,0.16,0,0.16,10,3,7,68,,
+Shining Ark,PSP,2013,Role-Playing,Sega,0,0,0.11,0,0.11,71,43,5,57,,
+Soccer Tsuku: Pro Soccer Club o Tsukurou!,PSV,2013,Sports,Sega,0,0,0.07,0,0.07,81,97,7,39,,
+Soccer Tsuku: Pro Soccer Club o Tsukurou!,PS3,2013,Sports,Sega,0,0,0.13,0,0.13,14,27,4,70,,
+Sonic & All-Stars Racing Transformed,PC,2013,Racing,Sega,0,0.01,0,0,0.01,30,100,4,72,,
+Sonic Lost World,WiiU,2013,Platform,Sega,0.23,0.12,0.01,0.03,0.39,63,64,7.3,461,Sonic Team,E10+
+Sonic Lost World,3DS,2013,Platform,Sega,0.24,0.14,0.07,0.03,0.49,59,34,6.5,144,Dimps Corporation,E10+
+Total War: Rome II,PC,2013,Strategy,Sega,0.12,0.53,0,0.07,0.72,76,71,4.2,3742,Creative Assembly,T
+Alien: Isolation,XOne,2014,Shooter,Sega,0.22,0.24,0,0.04,0.51,78,24,7.8,314,Creative Assembly,M
+Alien: Isolation,X360,2014,Shooter,Sega,0.15,0.1,0,0.02,0.28,27,49,8.2,113,Creative Assembly,M
+Alien: Isolation,PS4,2014,Shooter,Sega,0.34,0.57,0.04,0.17,1.13,79,50,8.1,795,Creative Assembly,M
+Alien: Isolation,PS3,2014,Shooter,Sega,0.12,0.16,0,0.05,0.33,10,1,8.3,111,Creative Assembly,M
+Alien: Isolation,PC,2014,Shooter,Sega,0,0.14,0,0.01,0.14,81,41,8.4,1588,Creative Assembly,M
+Dengeki Bunko Fighting Climax,PSV,2014,Fighting,Sega,0.04,0,0.08,0.01,0.13,75,7,8.5,28,Sega,T
+Dengeki Bunko Fighting Climax,PS3,2014,Fighting,Sega,0.05,0,0.09,0.01,0.16,66,13,8.2,29,"Sega, French-Bread",T
+Football Manager 2015,PC,2014,Simulation,Sega,0,0.44,0,0.03,0.46,80,36,6,151,Sports Interactive,
+Hatsune Miku: Project Diva F 2nd,PSV,2014,Misc,Sega,0.08,0.05,0.16,0.04,0.32,81,8,8.4,69,Sega,T
+Hatsune Miku: Project Diva F 2nd,PS3,2014,Misc,Sega,0.09,0.03,0.1,0.03,0.25,78,15,8.6,49,Sega,T
+Hero Bank,3DS,2014,Role-Playing,Sega,0,0,0.07,0,0.07,82,100,3,48,,
+Hero Bank 2,3DS,2014,Role-Playing,Sega,0,0,0.05,0,0.05,4,23,9,57,,
+Phantasy Star Nova,PSV,2014,Role-Playing,Sega,0,0,0.19,0,0.19,41,27,1,81,,
+Puyo Puyo Tetris,WiiU,2014,Puzzle,Sega,0,0,0.02,0,0.02,90,34,0,27,,
+Puyo Puyo Tetris,PSV,2014,Puzzle,Sega,0,0,0.05,0,0.05,30,86,0,39,,
+Puyo Puyo Tetris,PS3,2014,Puzzle,Sega,0,0,0.04,0,0.04,38,15,7,73,,
+Puyo Puyo Tetris,3DS,2014,Puzzle,Sega,0,0,0.11,0,0.11,75,86,9,48,,
+Shining Resonance,PS3,2014,Role-Playing,Sega,0,0,0.14,0,0.14,78,94,8,41,,
+Sonic Boom: Rise of Lyric,WiiU,2014,Action,Sega,0.19,0.09,0,0.03,0.31,32,28,3.6,587,Big Red Button Entertainment,E10+
+Sonic Boom: Shattered Crystal,3DS,2014,Action,Sega,0.17,0.09,0,0.03,0.29,47,21,6.3,160,Sanzaru Games,E
+Uta Kumi 575,PSV,2014,Misc,Sega,0,0,0.02,0,0.02,64,67,9,44,,
+Yakuza: Ishin,PS4,2014,Action,Sega,0,0,0.15,0,0.15,51,94,1,50,,
+Yakuza: Ishin,PS3,2014,Action,Sega,0,0,0.26,0,0.26,97,29,2,83,,
+7th Dragon III Code: VFD,3DS,2015,Role-Playing,Sega,0.04,0,0.12,0,0.17,77,26,8.2,38,Sega,T
+Blade Arcus from Shining EX,PS4,2015,Fighting,Sega,0,0,0.02,0,0.02,7,43,7,34,,
+Blade Arcus from Shining EX,PS3,2015,Fighting,Sega,0,0,0.02,0,0.02,41,35,2,89,,
+Football Manager 2016,PC,2015,Simulation,Sega,0,0.33,0,0.02,0.35,81,34,6.9,97,Sega,E
+Hatsune Miku: Project Mirai DX,3DS,2015,Misc,Sega,0.16,0.04,0.1,0.02,0.32,80,32,8.5,71,Sega,E10+
+Miracle Girls Festival,PSV,2015,Misc,Sega,0,0,0.06,0,0.06,23,15,9,23,,
+Phantasy Star Online 2: Episode 3 Deluxe Package,PSV,2015,Action,Sega,0,0,0.03,0,0.03,98,39,6,12,,
+Total War: Attila,PC,2015,Strategy,Sega,0.09,0.13,0,0.02,0.24,80,66,7.3,520,Creative Assembly,T
+Yakuza Zero: The Place of Oath,PS4,2015,Action,Sega,0,0,0.17,0,0.17,72,0,2,22,,
+Yakuza Zero: The Place of Oath,PS3,2015,Action,Sega,0,0,0.25,0,0.25,37,65,2,37,,
+3DS Classic Collection,3DS,2016,Misc,Sega,0.03,0,0,0,0.03,75,0,1,87,,
+Football Manager 2017,PC,2016,Simulation,Sega,0,0.09,0,0.01,0.09,81,41,4.3,57,Sports Interactive,E
+Hatsune Miku: Project Diva X,PSV,2016,Misc,Sega,0.01,0,0.1,0,0.12,83,5,8,22,Sega,T
+Hatsune Miku: Project Diva X,PS4,2016,Misc,Sega,0.02,0,0.02,0,0.05,78,22,7.4,41,Sega,T
+Sonic Boom: Fire & Ice,3DS,2016,Platform,Sega,0.05,0.03,0,0.01,0.09,15,10,4,57,,
+Total War: WARHAMMER,PC,2016,Strategy,Sega,0,0.12,0,0.01,0.13,86,77,7.3,556,Creative Assembly,T
+Valkyria Chronicles,PS4,2016,Role-Playing,Sega,0.07,0.05,0.05,0.03,0.2,52,82,1,59,,
+Yakuza Kiwami,PS4,2016,Adventure,Sega,0,0,0.16,0,0.16,13,82,5,24,Ryu ga Gotoku Studios,
+Yakuza Kiwami,PS3,2016,Adventure,Sega,0,0,0.12,0,0.12,17,21,8,41,,
+Phantasy Star Online 2 Episode 4: Deluxe Package,PSV,2017,Role-Playing,Sega,0,0,0.01,0,0.01,98,79,1,72,,
+Phantasy Star Online 2 Episode 4: Deluxe Package,PS4,2017,Role-Playing,Sega,0,0,0.04,0,0.04,94,54,1,40,,
+Captain America: Super Soldier,Wii,N/A,Action,Sega,0.05,0,0,0,0.05,57,16,6,6,High Voltage Software,T
+Captain America: Super Soldier,DS,N/A,Action,Sega,0.05,0,0,0,0.05,54,53,6,74,,
+Football Manager 2007,X360,N/A,Sports,Sega,0,0.01,0,0,0.01,17,36,4,40,,
+The Golden Compass,Wii,N/A,Action,Sega,0.26,0.28,0,0.07,0.6,35,12,6.8,6,Shiny Entertainment,E10+
+The Golden Compass,PSP,N/A,Action,Sega,0.11,0.16,0,0.1,0.37,28,4,4.1,7,Shiny Entertainment,E10+
+Valkyria Chronicles III: Unrecorded Chronicles,PSP,N/A,Strategy,Sega,0,0,0.21,0,0.21,98,44,10,9,Sega,
+Yakuza 4,PS3,N/A,Action,Sega,0.15,0.13,0.63,0.05,0.95,78,59,8,177,Ryu ga Gotoku Studios,M

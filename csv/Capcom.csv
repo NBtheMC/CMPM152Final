@@ -1,0 +1,387 @@
+﻿Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+1942,NES,1985,Shooter,Capcom,0.65,0.14,0.21,0,1,62,31,2,96,,
+Commando,NES,1986,Action,Capcom,0.71,0.16,0.25,0.03,1.14,98,16,5,59,,
+Dragon Warrior,NES,1986,Role-Playing,Capcom,0.49,0,0.52,1.51,2.52,72,75,4,51,,
+Ghosts 'n Goblins,NES,1986,Action,Capcom,0.74,0.26,0.61,0.03,1.64,80,85,8,90,,
+Mega Man,NES,1987,Platform,Capcom,0.45,0.08,0.27,0.01,0.81,60,23,0,27,,
+Disney's DuckTales,GB,1988,Platform,Capcom,0.82,0.23,0.35,0.03,1.43,61,14,0,56,,
+Mega Man 2,NES,1988,Action,Capcom,0.93,0.15,0.42,0.01,1.51,20,58,2,34,,
+Disney's DuckTales,NES,1989,Platform,Capcom,0.91,0.3,0.42,0.04,1.67,59,23,8,43,,
+Disney's Chip 'n Dale: Rescue Rangers,NES,1990,Platform,Capcom,0.68,0.14,0.35,0.02,1.19,64,83,5,30,,
+Final Fight,SNES,1990,Action,Capcom,0.67,0.17,0.69,0.03,1.56,13,45,6,74,,
+Mega Man 3,NES,1990,Platform,Capcom,0.68,0.1,0.39,0,1.17,69,67,6,44,,
+Mega Man 4,NES,1991,Platform,Capcom,0.51,0.09,0.32,0.01,0.93,16,45,10,7,,
+Super Ghouls 'n Ghosts,SNES,1991,Platform,Capcom,0.5,0.14,0.52,0.02,1.18,100,54,5,37,,
+UN Squadron,SNES,1991,Shooter,Capcom,0,0,0.12,0,0.12,80,6,9,50,,
+Mega Man 5,NES,1992,Platform,Capcom,0.39,0.07,0.32,0.01,0.79,38,42,7,29,,
+Street Fighter II Turbo,SNES,1992,Fighting,Capcom,1.42,0.51,2.1,0.07,4.1,81,25,8,77,,
+Street Fighter II: The World Warrior,SNES,1992,Fighting,Capcom,2.47,0.83,2.87,0.12,6.3,95,35,4,14,,
+The Magical Quest starring Mickey Mouse,SNES,1992,Platform,Capcom,0.66,0.17,0.35,0.03,1.21,50,62,6,96,,
+Disney's Aladdin,SNES,1993,Platform,Capcom,0.94,0.34,0.21,0.27,1.75,49,98,5,10,,
+Final Fight 2,SNES,1993,Action,Capcom,0.39,0.12,0.49,0.02,1.02,94,80,5,56,,
+Mega Man 6,NES,1993,Platform,Capcom,0.28,0.07,0.16,0.01,0.52,96,17,6,26,,
+Mega Man Soccer,SNES,1993,Sports,Capcom,0.04,0.01,0.13,0,0.18,42,59,1,2,,
+Mega Man X,SNES,1993,Platform,Capcom,0.57,0.08,0.5,0.01,1.16,70,83,9,73,,
+Street Fighter II': Special Champion Edition (JP weekly sales),GEN,1993,Action,Capcom,0,0,0.07,0,0.07,28,94,1,28,,
+Super Street Fighter II,GEN,1993,Fighting,Capcom,0,0,0.15,0,0.15,13,80,10,12,,
+Saturday Night Slam Masters,SNES,1994,Fighting,Capcom,0,0,0.16,0,0.16,88,39,1,54,,
+Mega Man 8 Anniversary Collector's Edition,PS,1996,Platform,Capcom,0.44,0.3,0.09,0.06,0.88,20,83,9,35,,
+Street Fighter Alpha: Warriors' Dreams,SAT,1996,Fighting,Capcom,0,0,0.35,0,0.35,72,55,6,86,,
+Street Fighter Collection,SAT,1996,Fighting,Capcom,0,0,0.11,0,0.11,46,17,6,76,,
+Breath of Fire III,PS,1997,Role-Playing,Capcom,0.29,0.19,0.46,0.07,1,44,33,7,1,,
+Buster Bros. Collection,PS,1997,Puzzle,Capcom,0.04,0.03,0,0,0.07,58,63,8,22,,
+Marvel Super Heroes,SAT,1997,Fighting,Capcom,0,0,0.06,0,0.06,30,80,0,26,,
+Mega Man 8 Anniversary Collector's Edition,SAT,1997,Platform,Capcom,0,0,0.06,0,0.06,96,36,0,48,,
+Mega Man Legends,PS,1997,Adventure,Capcom,0.39,0.26,0.12,0.05,0.83,81,30,4,92,,
+Mega Man X4,SAT,1997,Action,Capcom,0,0,0.07,0,0.07,82,56,5,17,,
+Mega Man: Battle & Chase,PS,1997,Racing,Capcom,0,0,0.06,0,0.07,70,47,0,8,,
+Resident Evil,SAT,1997,Action,Capcom,0,0,0.17,0,0.17,36,91,1,72,,
+Resident Evil Director's Cut: Dual Shock Edition,PS,1997,Action,Capcom,0,0,0.16,0.01,0.17,29,79,7,36,,
+Street Fighter Collection,PS,1997,Fighting,Capcom,0,0,0.09,0.01,0.1,86,51,10,6,,
+X-Men vs. Street Fighter,SAT,1997,Fighting,Capcom,0,0,0.26,0,0.26,64,64,5,8,,
+X-Men vs. Street Fighter,PS,1997,Fighting,Capcom,0.16,0.11,0.12,0.03,0.42,79,85,9,65,,
+Darkstalkers 3,PS,1998,Fighting,Capcom,0.11,0.07,0,0.01,0.19,90,17,7,47,,
+Dino Crisis,PS,1998,Action,Capcom,0.81,0.76,0.7,0.14,2.41,69,59,2,44,,
+Pocket Fighter,SAT,1998,Fighting,Capcom,0,0,0.03,0,0.03,58,64,7,19,,
+Resident Evil 2: Dual Shock Edition,PS,1998,Action,Capcom,0,0,0.26,0.02,0.27,61,63,6,100,,
+Rival Schools: United By Fate,PS,1998,Fighting,Capcom,0.12,0.08,0.28,0.03,0.52,37,11,7,90,,
+RockMan & Forte,SNES,1998,Platform,Capcom,0,0,0.14,0,0.14,23,7,5,20,,
+Vampire Savior: The Lord of Vampire,SAT,1998,Fighting,Capcom,0,0,0.18,0,0.18,6,49,0,87,,
+Marvel vs. Capcom: Clash of Super Heroes,PS,1999,Fighting,Capcom,0.43,0.3,0,0.05,0.78,11,14,6,75,,
+Marvel vs. Capcom: Clash of Super Heroes,DC,1999,Fighting,Capcom,0,0,0.1,0,0.1,87,31,9,4,,
+Breath of Fire IV,PS,2000,Role-Playing,Capcom,0.11,0.08,0.34,0.04,0.56,83,10,8.9,45,Capcom,T
+Mega Man 64,N64,2000,Action,Capcom,0.14,0.03,0.05,0,0.22,23,56,6,80,,
+Mega Man Legends 2,PS,2000,Adventure,Capcom,0.17,0.12,0.1,0.03,0.42,76,10,8.8,29,Capcom,E
+Mega Man X5,PS,2000,Platform,Capcom,0.3,0.21,0.2,0.05,0.75,76,10,8.9,55,Capcom,E
+Mega Man Xtreme,GB,2000,Platform,Capcom,0,0,0.07,0,0.07,100,65,0,17,,
+Capcom vs. SNK 2: Mark of the Millennium 2001,PS2,2001,Fighting,Capcom,0.22,0.17,0.3,0.06,0.75,81,22,7.9,27,Capcom,T
+Capcom vs. SNK 2: Millionaire Fighting 2001,DC,2001,Fighting,Capcom,0,0,0.12,0,0.12,84,81,4,98,,
+Capcom vs. SNK: Millennium Fight 2000 Pro,DC,2001,Fighting,Capcom,0,0,0.05,0,0.05,23,45,8,55,,
+Devil May Cry,PS2,2001,Action,Capcom,1.36,0.86,0.64,0.13,2.99,94,37,8.5,466,Capcom,M
+Maximo: Ghosts to Glory,PS2,2001,Platform,Capcom,0.38,0.29,0,0.1,0.77,84,33,8.7,16,Capcom,T
+Mega Man Battle Network,GBA,2001,Role-Playing,Capcom,0.14,0.05,0.22,0.01,0.42,79,10,8.9,24,Capcom,E
+Mega Man X6,PS,2001,Action,Capcom,0.14,0.1,0.16,0.03,0.42,65,14,6.8,44,Capcom,E
+Mega Man Xtreme 2,GB,2001,Platform,Capcom,0,0,0.07,0,0.07,19,84,10,96,,
+One Piece Mansion,PS,2001,Action,Capcom,0.01,0.01,0,0,0.02,62,12,9,91,Capcom,E
+Resident Evil - Code: Veronica X,PS2,2001,Action,Capcom,1.08,0.7,0.34,0.21,2.34,84,21,8.4,189,Capcom,M
+Auto Modellista,PS2,2002,Racing,Capcom,0.19,0.15,0,0.05,0.39,66,20,7.5,13,Capcom,E
+Bombastic,PS2,2002,Puzzle,Capcom,0.03,0.02,0,0.01,0.05,72,24,7.2,6,Shift,E
+Breath of Fire: Dragon Quarter,PS2,2002,Role-Playing,Capcom,0.09,0.07,0,0.02,0.19,78,28,6.9,35,Capcom,T
+Capcom vs. SNK 2 EO,GC,2002,Fighting,Capcom,0.09,0.02,0,0,0.11,68,20,8.9,27,Capcom,T
+Clock Tower 3,PS2,2002,Adventure,Capcom,0.1,0.08,0.12,0.03,0.33,69,28,7.6,38,SunSoft,M
+Dino Stalker,PS2,2002,Shooter,Capcom,0.07,0.06,0.08,0.02,0.22,50,18,6.3,8,Capcom,M
+EverBlue 2,PS2,2002,Adventure,Capcom,0.02,0.01,0,0,0.03,59,21,7.5,4,Arika,E
+Genma Onimusha,XB,2002,Action,Capcom,0.14,0.04,0.05,0.01,0.24,83,27,8.6,10,Capcom,M
+Gyakuten Saiban 2,GBA,2002,Action,Capcom,0,0,0.14,0,0.14,97,96,9,2,,
+Marvel vs. Capcom 2: New Age of Heroes,XB,2002,Fighting,Capcom,0.09,0.03,0.01,0,0.14,72,51,7,2,,
+Marvel vs. Capcom 2: New Age of Heroes,PS2,2002,Fighting,Capcom,0.31,0.24,0.13,0.08,0.76,92,71,3,8,,
+Mega Man & Bass,GBA,2002,Platform,Capcom,0.16,0.06,0,0,0.23,67,75,8,90,,
+Mega Man Battle Network 3 Blue / White Version,GBA,2002,Role-Playing,Capcom,0.39,0.02,0.85,0.03,1.29,23,9,2,28,,
+Mega Man Zero,GBA,2002,Platform,Capcom,0.22,0.08,0.24,0.01,0.55,82,17,8.9,31,Inti,E
+Onimusha 2: Samurai's Destiny,PS2,2002,Adventure,Capcom,0.62,0.44,1.06,0.13,2.25,84,31,9,52,Capcom,M
+Resident Evil (Remake),GC,2002,Action,Capcom,0.63,0.38,0.35,0.05,1.42,3,90,0,3,,
+Resident Evil Zero,GC,2002,Action,Capcom,0.54,0.27,0.45,0.04,1.29,26,93,1,70,,
+Street Fighter Alpha 3,GBA,2002,Fighting,Capcom,0.11,0.04,0,0,0.15,83,17,7.8,10,Crawfish Interactive,T
+Super Ghouls 'n Ghosts,GBA,2002,Platform,Capcom,0.05,0.02,0,0,0.07,78,19,8.8,4,Capcom,E
+Auto Modellista,GC,2003,Racing,Capcom,0.02,0.01,0,0,0.03,62,7,1,10,Capcom,E
+Capcom vs. SNK 2 EO,XB,2003,Fighting,Capcom,0.08,0.02,0,0,0.1,80,26,8.7,13,Capcom,T
+Chaos Legion,PS2,2003,Action,Capcom,0.15,0.12,0,0.04,0.3,65,34,8.2,58,Capcom,T
+Devil May Cry 2,PS2,2003,Action,Capcom,0.71,0.58,0.51,0.17,1.97,68,40,6.6,167,Capcom,M
+Dino Crisis 3,XB,2003,Action,Capcom,0.08,0.03,0.03,0,0.14,51,28,4.1,22,Capcom,M
+Disney's Aladdin,GBA,2003,Platform,Capcom,0.02,0.01,0,0,0.03,59,17,5,39,Disney Interactive,E
+Disney's Hide & Sneak,GC,2003,Action,Capcom,0.03,0.01,0,0,0.03,67,16,1,87,,
+Disney's Magical Quest 2 Starring Mickey and Minnie,GBA,2003,Action,Capcom,0.05,0.02,0,0,0.06,63,8,4,29,Klein Computer Entertainment,E
+Disney's Magical Quest 3 Starring Mickey and Donald,GBA,2003,Action,Capcom,0.02,0.01,0,0,0.02,58,7,4,85,Klein Computer Entertainment,E
+Gotcha Force,GC,2003,Shooter,Capcom,0.01,0,0.01,0,0.03,56,24,8.2,17,Capcom,E
+Group S Challenge,XB,2003,Racing,Capcom,0.02,0,0,0,0.02,57,17,6,5,Capcom,E
+Maximo vs Army of Zin,PS2,2003,Platform,Capcom,0.1,0.08,0,0.03,0.21,83,46,7.8,13,Capcom,T
+Mega Man Battle Chip Challenge,GBA,2003,Misc,Capcom,0.08,0.03,0,0,0.11,54,25,8.3,8,Capcom,E
+Mega Man Battle Network 4: Red Sun / Blue Moon,GBA,2003,Role-Playing,Capcom,0.31,0.04,0.96,0.01,1.32,3,77,4,82,,
+Mega Man Network Transmission,GC,2003,Platform,Capcom,0.13,0.03,0,0,0.17,65,28,7.6,13,Arika,E
+Mega Man X7,PS2,2003,Action,Capcom,0.22,0.17,0.14,0.06,0.58,58,30,5.1,38,"Valuewave Co.,Ltd.",E
+Mega Man Zero 2,GBA,2003,Platform,Capcom,0.18,0.07,0.17,0.01,0.43,81,17,8.6,18,Inti,E
+Onimusha Tactics,GBA,2003,Strategy,Capcom,0.06,0.02,0,0,0.08,64,21,8.7,7,Capcom,T
+Onimusha: Blade Warriors,PS2,2003,Fighting,Capcom,0.06,0.05,0,0.02,0.12,65,33,6.9,7,Capcom,T
+P.N.03 - Product Number Three,GC,2003,Shooter,Capcom,0.06,0.02,0,0,0.08,91,74,7,24,,
+Pro Cast Sports Fishing,XB,2003,Sports,Capcom,0.02,0.01,0,0,0.03,49,12,1,75,Capcom,E
+Resident Evil - Code: Veronica X,GC,2003,Action,Capcom,0.05,0.01,0,0,0.06,62,16,8.5,32,Nex Entertainment,M
+Resident Evil 2,GC,2003,Action,Capcom,0.04,0.01,0,0,0.06,59,15,8.5,31,Capcom,M
+Resident Evil 3: Nemesis,GC,2003,Action,Capcom,0.06,0.02,0,0,0.08,62,14,8.3,44,Capcom,M
+Resident Evil: Dead Aim,PS2,2003,Action,Capcom,0.17,0.13,0,0.04,0.35,65,28,6.6,48,Cavia Inc.,M
+Resident Evil: Outbreak,PS2,2003,Action,Capcom,0.54,0.35,0.46,0.1,1.45,71,40,8.3,94,Capcom,M
+Robin Hood: Defender of the Crown,XB,2003,Strategy,Capcom,0.02,0.01,0,0,0.03,57,13,1,49,Atomic Planet Entertainment,T
+Robin Hood: Defender of the Crown,PS2,2003,Strategy,Capcom,0.09,0.07,0,0.02,0.19,59,18,5.6,5,Cinemaware,T
+UFC: Tapout 2,XB,2003,Fighting,Capcom,0.08,0.02,0,0,0.1,66,14,7.3,4,DreamFactory,T
+Viewtiful Joe,GC,2003,Action,Capcom,0.38,0.1,0.12,0.02,0.62,93,52,8.3,115,Clover Studio,T
+Way of the Samurai 2,PS2,2003,Action,Capcom,0.05,0.04,0.23,0.01,0.33,59,32,9,24,Acquire,M
+Capcom Fighting Evolution,PS2,2004,Fighting,Capcom,0.1,0.08,0,0.03,0.2,57,33,4.8,5,Capcom,T
+Crimson Tears,PS2,2004,Role-Playing,Capcom,0.02,0.01,0,0,0.03,62,30,7.8,4,DreamFactory,T
+Darkstalkers Chronicle: The Chaos Tower,PSP,2004,Fighting,Capcom,0.13,0,0,0.01,0.15,74,27,7.9,25,Capcom,T
+Famicom Mini: Makaimura,GBA,2004,Platform,Capcom,0,0,0.08,0,0.09,14,81,1,73,,
+Gyakuten Saiban 3,GBA,2004,Adventure,Capcom,0,0,0.16,0,0.17,61,0,4,37,,
+Mega Man Anniversary Collection,PS2,2004,Platform,Capcom,0.29,0.22,0,0.08,0.59,81,26,9,20,Atomic Planet Entertainment,E
+Mega Man Anniversary Collection,GC,2004,Platform,Capcom,0.32,0.08,0,0.01,0.42,81,32,8.8,17,Atomic Planet Entertainment,E
+Mega Man Battle Network 5: Team Colonel / Protoman,GBA,2004,Role-Playing,Capcom,0.16,0.06,0,0,0.23,89,92,8,16,,
+Mega Man X: Command Mission,PS2,2004,Role-Playing,Capcom,0.09,0.07,0,0.02,0.18,69,27,7.1,18,"Valuewave Co.,Ltd.",E
+Mega Man X: Command Mission,GC,2004,Role-Playing,Capcom,0.1,0.02,0,0,0.12,67,21,7.3,12,Capcom,E
+Mega Man X8,PS2,2004,Platform,Capcom,0.14,0.11,0,0.04,0.29,68,23,8.5,63,"Valuewave Co.,Ltd.",E
+Mega Man Zero 3,GBA,2004,Platform,Capcom,0.16,0.06,0,0,0.22,77,21,9,22,Inti,E
+Monster Hunter,PS2,2004,Role-Playing,Capcom,0.11,0.08,0.28,0.03,0.5,68,37,8.9,46,Capcom,T
+Onimusha 3: Demon Siege,PS2,2004,Action,Capcom,0.37,0.47,0.54,0.07,1.45,85,53,8.6,73,Capcom,M
+Resident Evil Outbreak File #2,PS2,2004,Action,Capcom,0.19,0.15,0.17,0.05,0.57,58,35,7.7,70,Capcom,M
+RockMan EXE 4.5 Real Operation,GBA,2004,Role-Playing,Capcom,0,0,0.08,0,0.08,17,92,2,77,,
+Steel Battalion: Line of Contact,XB,2004,Simulation,Capcom,0.02,0.01,0,0,0.02,70,19,8,8,Capcom,T
+Street Fighter Anniversary Collection,XB,2004,Fighting,Capcom,0.11,0.03,0,0.01,0.15,79,33,6.4,9,Capcom,T
+Street Fighter Anniversary Collection,PS2,2004,Fighting,Capcom,0.32,0.25,0,0.08,0.66,78,30,8.7,20,Capcom,T
+Under the Skin,PS2,2004,Action,Capcom,0.01,0.01,0,0,0.03,55,30,2,18,Capcom,T
+Viewtiful Joe,PS2,2004,Action,Capcom,0.14,0.11,0,0.04,0.28,90,34,8.5,35,Clover Studio,T
+Viewtiful Joe 2,PS2,2004,Action,Capcom,0.1,0.08,0,0.03,0.21,85,29,7.7,17,Clover Studio,T
+Viewtiful Joe 2,GC,2004,Action,Capcom,0.17,0.04,0,0.01,0.22,86,39,8.3,19,Clover Studio,T
+Beat Down: Fists of Vengeance,PS2,2005,Action,Capcom,0.04,0.03,0.09,0.01,0.17,48,33,8.1,12,Cavia Inc.,M
+Beatdown: Fists of Vengeance,XB,2005,Action,Capcom,0.03,0.01,0,0,0.04,84,66,8,93,,
+Breath of Fire III,PSP,2005,Role-Playing,Capcom,0,0.02,0,0.01,0.03,30,37,9.7,6,Capcom,T
+Capcom Classics Collection,XB,2005,Misc,Capcom,0.11,0.03,0,0.01,0.15,81,23,5,71,Digital Eclipse,T
+Capcom Classics Collection,PS2,2005,Misc,Capcom,0.22,0.17,0.05,0.06,0.51,78,30,8.4,5,Digital Eclipse,T
+Capcom Fighting Evolution,XB,2005,Fighting,Capcom,0.03,0.01,0,0,0.04,61,20,5,11,Capcom,T
+Devil Kings,PS2,2005,Action,Capcom,0.03,0.03,0.18,0.01,0.25,64,27,7.4,12,Capcom,T
+Devil May Cry 3: Dante's Awakening,PS2,2005,Action,Capcom,0.99,0.63,0.29,0.19,2.09,84,60,9,212,Capcom,M
+Haunting Ground,PS2,2005,Action,Capcom,0.03,0.03,0,0.01,0.07,67,33,8.8,44,Capcom,M
+Killer7,PS2,2005,Action,Capcom,0.04,0.03,0,0.01,0.09,70,39,8.1,36,Grasshopper Manufacture,M
+Killer7,GC,2005,Action,Capcom,0.12,0.03,0,0,0.15,74,57,8.5,64,Grasshopper Manufacture,M
+Mega Man Anniversary Collection,XB,2005,Platform,Capcom,0.1,0.03,0,0,0.13,80,12,9.2,5,Atomic Planet Entertainment,E
+Mega Man Battle Network 6: Cybeast Falzar / Gregar,GBA,2005,Role-Playing,Capcom,0.09,0.03,0.62,0.02,0.76,12,58,4,14,,
+Mega Man Maverick Hunter X,PSP,2005,Platform,Capcom,0.27,0.01,0,0.03,0.31,79,34,8.3,44,Capcom,E10+
+Mega Man Zero 4,GBA,2005,Platform,Capcom,0.08,0.03,0,0,0.11,77,17,9.1,21,Inti,E
+Monster Hunter Freedom,PSP,2005,Role-Playing,Capcom,0.24,0.03,1.03,0.04,1.34,71,34,8.6,78,Capcom,T
+Monster Hunter G,PS2,2005,Role-Playing,Capcom,0,0,0.23,0,0.23,92,61,5,74,,
+Phoenix Wright: Ace Attorney,DS,2005,Adventure,Capcom,0.44,0.05,0.39,0.05,0.92,81,53,9.2,203,Capcom,T
+Resident Evil 4,PS2,2005,Action,Capcom,2.08,0.83,0.46,0.25,3.62,96,38,8.9,1013,Capcom,M
+Resident Evil 4,GC,2005,Action,Capcom,0.98,0.42,0.22,0.06,1.69,96,82,9.4,767,Capcom,M
+Shadow of Rome,PS2,2005,Action,Capcom,0.13,0.1,0,0.03,0.27,75,52,8.3,62,Capcom,M
+Viewtiful Joe: Double Trouble!,DS,2005,Action,Capcom,0.08,0,0.01,0.01,0.11,50,50,5,30,,
+Viewtiful Joe: Red Hot Rumble,GC,2005,Action,Capcom,0.04,0.01,0,0,0.06,62,27,6.9,8,Clover Studio,T
+Without Warning,PS2,2005,Shooter,Capcom,0.02,0.01,0,0,0.04,45,25,6.5,8,CiRCLE,M
+Black Cat,PS2,2006,Action,Capcom,0,0,0.01,0,0.01,32,93,2,7,,
+Capcom Classics Collection Reloaded,PSP,2006,Misc,Capcom,0.26,0,0.03,0.03,0.33,75,27,7,42,"Capcom, Klein Computer Entertainment",T
+Capcom Classics Collection Remixed,PSP,2006,Misc,Capcom,0.27,0,0,0.02,0.3,72,37,7,5,Digital Eclipse,T
+Dead Rising,X360,2006,Action,Capcom,1.16,0.64,0.08,0.2,2.08,85,82,7.6,520,Capcom,M
+Devil May Cry 3: Dante's Awakening Special Edition,PS2,2006,Action,Capcom,1.06,0.82,0.05,0.28,2.21,81,21,5,47,,
+Final Fight: Streetwise,XB,2006,Action,Capcom,0.01,0,0,0,0.02,42,29,4,4,Secret Level,M
+Final Fight: Streetwise,PS2,2006,Action,Capcom,0.03,0.02,0,0.01,0.05,43,36,6.2,11,Capcom,M
+Full House Kiss 2,PS2,2006,Adventure,Capcom,0,0,0.02,0,0.02,22,66,7,56,,
+God Hand,PS2,2006,Action,Capcom,0,0,0.07,0,0.07,73,48,7.7,165,Clover Studio,M
+Lost Planet: Extreme Condition,X360,2006,Shooter,Capcom,1.09,0.04,0.1,0.1,1.34,79,76,7.1,187,Capcom,T
+Marvel vs. Capcom Origins,PS2,2006,Fighting,Capcom,0.11,0.08,0.02,0.03,0.24,23,85,1,78,,
+Mega Man Powered Up,PSP,2006,Platform,Capcom,0.12,0.01,0,0.02,0.14,82,28,7.5,36,Capcom,E
+Mega Man Star Force Dragon / Leo / Pegasus,DS,2006,Action,Capcom,0.39,0,0.53,0.03,0.95,74,86,1,32,,
+Mega Man X Collection,GC,2006,Misc,Capcom,0.1,0.03,0,0,0.13,75,23,9.2,12,Capcom,E
+Mega Man ZX,DS,2006,Platform,Capcom,0.16,0,0.1,0.02,0.28,76,37,8.3,32,Inti Creates,E
+Okami,PS2,2006,Action,Capcom,0.11,0.03,0.15,0.34,0.63,93,69,9.3,327,Clover Studio,T
+Onimusha: Dawn of Dreams,PS2,2006,Action,Capcom,0.15,0.12,0.34,0.04,0.64,81,45,8.9,62,Capcom,M
+Phoenix Wright: Ace Attorney - Justice for All,DS,2006,Adventure,Capcom,0.21,0.04,0.26,0.03,0.53,1,26,6,59,,
+Power Stone Collection,PSP,2006,Action,Capcom,0.08,0,0,0.01,0.1,74,34,6.8,6,Capcom,T
+Resident Evil,PS3,2006,Action,Capcom,0,0,0.12,0,0.12,8,15,4,87,,
+Resident Evil Director's Cut,PS3,2006,Action,Capcom,0,0,0.05,0,0.05,27,23,10,67,,
+Resident Evil: Deadly Silence,DS,2006,Action,Capcom,0.11,0.02,0.11,0.01,0.26,71,41,8.4,36,Capcom,M
+Sengoku Basara 2,PS2,2006,Action,Capcom,0,0,0.26,0,0.26,85,93,9,12,,
+Street Fighter Alpha 3 MAX,PSP,2006,Fighting,Capcom,0.27,0.01,0.02,0.03,0.33,80,35,8,27,Capcom,T
+Ultimate Ghosts 'n Goblins,PSP,2006,Platform,Capcom,0.07,0,0,0.01,0.08,72,49,7.7,18,TOSE,E10+
+Ultimate Ghosts 'n Goblins (JP sales),PSP,2006,Platform,Capcom,0,0,0.05,0,0.05,96,60,9,72,,
+Viewtiful Joe: Red Hot Rumble,PSP,2006,Action,Capcom,0.08,0,0,0.01,0.09,63,24,6.3,6,Clover Studio,T
+Apollo Justice: Ace Attorney,DS,2007,Adventure,Capcom,0.28,0.04,0.64,0.03,0.99,78,48,8.1,84,Capcom,T
+Fate/Tiger Colosseum,PSP,2007,Fighting,Capcom,0,0,0.08,0,0.08,11,52,0,70,,
+Goku Makaimura Kai,PSP,2007,Platform,Capcom,0,0,0.01,0,0.01,26,42,5,100,,
+Kabu Trader Shun,DS,2007,Action,Capcom,0,0,0.03,0,0.03,38,18,5,64,,
+Mega Man Star Force 2: Zerker x Ninja / Saurian,DS,2007,Action,Capcom,0.24,0,0.31,0.02,0.57,40,61,1,97,,
+Mega Man ZX Advent,DS,2007,Platform,Capcom,0.22,0,0.09,0.02,0.33,78,27,8.6,32,Inti Creates,E10+
+Monster Hunter Freedom 2,PSP,2007,Role-Playing,Capcom,0.37,0.27,1.75,0.18,2.57,72,38,8.7,83,Capcom,T
+MotoGP 07,PS2,2007,Racing,Capcom,0.05,0.04,0,0.01,0.1,62,26,9.1,7,Milestone,E
+Phoenix Wright: Ace Attorney - Trials and Tribulations,DS,2007,Adventure,Capcom,0.3,0.03,0.25,0.03,0.61,20,78,6,83,,
+Resident Evil 4,Wii,2007,Action,Capcom,1.32,0.56,0.14,0.2,2.22,2,12,2,46,,
+Resident Evil: The Umbrella Chronicles,Wii,2007,Action,Capcom,0.67,0.43,0.29,0.14,1.52,75,47,7.6,122,Cavia Inc.,M
+Sengoku Basara 2 Heroes,Wii,2007,Action,Capcom,0,0,0.01,0,0.01,23,28,2,79,,
+Sengoku Basara 2 Heroes,PS2,2007,Action,Capcom,0,0,0.2,0,0.2,26,11,2,55,,
+Shijyou Saikyou no Deshi Kenichi: Gekitou! Ragnarok Hachikengou,PS2,2007,Fighting,Capcom,0,0,0.01,0,0.01,20,51,0,88,,
+Wantame Fortune Channel,DS,2007,Misc,Capcom,0,0,0.06,0,0.06,86,52,8,83,,
+Wantame Music Channel: Doko Demo Style,DS,2007,Misc,Capcom,0,0,0.13,0,0.13,92,22,1,23,,
+We Love Golf!,Wii,2007,Sports,Capcom,0.19,0,0.03,0.02,0.24,41,44,6,29,,
+Devil May Cry 4,X360,2008,Action,Capcom,0.79,0.34,0.08,0.13,1.34,84,61,8,248,Capcom,M
+Devil May Cry 4,PS3,2008,Action,Capcom,0.58,0.45,0.34,0.2,1.57,84,63,8.2,311,Capcom,M
+Devil May Cry 4,PC,2008,Action,Capcom,0.01,0.02,0,0.01,0.04,78,21,8.5,353,Capcom,M
+Fate/Tiger Colosseum Upper,PSP,2008,Fighting,Capcom,0,0,0.06,0,0.06,56,90,9,75,,
+Fate/Unlimited Codes,PS2,2008,Fighting,Capcom,0,0,0.14,0,0.14,91,85,1,99,,
+Harvey Birdman: Attorney at Law,Wii,2008,Adventure,Capcom,0.08,0,0,0.01,0.08,60,28,7.8,5,High Voltage Software,T
+Harvey Birdman: Attorney at Law,PSP,2008,Adventure,Capcom,0.09,0,0,0.01,0.1,62,19,8,8,High Voltage Software,T
+Harvey Birdman: Attorney at Law,PS2,2008,Adventure,Capcom,0.06,0.04,0,0.01,0.12,63,21,7,48,High Voltage Software,T
+Lost Planet: Extreme Condition,PS3,2008,Shooter,Capcom,0.31,0.17,0.07,0.08,0.64,67,34,7,36,Capcom,T
+Mega Man Star Force 3: Black Ace / Red Joker,DS,2008,Action,Capcom,0.22,0,0.22,0.02,0.46,41,5,8,0,,
+Monster Hunter Freedom Unite,PSP,2008,Role-Playing,Capcom,0.47,0.55,4.13,0.34,5.48,81,48,8.7,124,Capcom,T
+MotoGP 08,X360,2008,Racing,Capcom,0.11,0.2,0,0.04,0.35,68,20,5.6,12,Milestone S.r.l,E
+MotoGP 08,PS3,2008,Racing,Capcom,0.07,0.24,0,0.08,0.39,65,21,6,9,Milestone S.r.l,E
+MotoGP 08,PS2,2008,Racing,Capcom,0.01,0,0,0.21,0.22,59,54,9,64,Milestone S.r.l,E
+Neopets Puzzle Adventure,Wii,2008,Puzzle,Capcom,0.18,0.02,0,0.02,0.22,52,11,3,98,Infinite Interactive,E
+Neopets Puzzle Adventure,DS,2008,Puzzle,Capcom,0.26,0,0,0.02,0.29,70,12,7,92,Infinite Interactive,E
+Okami,Wii,2008,Action,Capcom,0.43,0.09,0.04,0.05,0.6,90,44,8.9,236,Ready at Dawn,T
+Onimusha Essentials,PS2,2008,Action,Capcom,0.07,0.05,0,0.02,0.14,94,22,3,1,Capcom,M
+Phoenix Wright: Revived Turnabout,DS,2008,Misc,Capcom,0,0,0.04,0,0.04,29,40,2,9,,
+Resident Evil Archives: Resident Evil,Wii,2008,Action,Capcom,0.16,0.04,0.08,0.02,0.3,76,11,8.9,41,Capcom,M
+Resident Evil Archives: Resident Evil Zero,Wii,2008,Action,Capcom,0.13,0.03,0.06,0.01,0.24,62,17,8.2,37,Capcom,M
+Rosario to Vampire: Tanabata no Miss Youkai Gakuen,DS,2008,Adventure,Capcom,0,0,0.01,0,0.01,65,65,3,89,,
+Sally's Salon,DS,2008,Simulation,Capcom,0.12,0,0,0.01,0.13,11,97,6,6,Capcom,E
+Sengoku Basara X,PS2,2008,Fighting,Capcom,0,0,0.05,0,0.05,55,38,4,15,,
+Tatsunoko vs. Capcom: Cross Generation of Heroes,Wii,2008,Fighting,Capcom,0,0,0.1,0,0.1,56,5,9,41,,
+Tropix,DS,2008,Puzzle,Capcom,0.06,0,0,0,0.07,17,98,2,40,,
+Ace Attorney Investigations: Miles Edgeworth,DS,2009,Adventure,Capcom,0.23,0.14,0.3,0.04,0.7,78,51,8.4,79,Capcom,T
+Bionic Commando,X360,2009,Platform,Capcom,0.12,0.12,0.01,0.03,0.28,70,65,7.3,87,GRIN,M
+Bionic Commando,PS3,2009,Platform,Capcom,0.12,0.17,0.01,0.06,0.36,71,48,7.4,62,GRIN,M
+Dead Rising: Chop Till You Drop,Wii,2009,Action,Capcom,0.15,0.07,0.05,0.02,0.29,61,30,6.5,35,TOSE,M
+Fate/Unlimited Codes Portable,PSP,2009,Fighting,Capcom,0,0,0.05,0,0.05,73,4,4,44,,
+Monster Hunter G,Wii,2009,Role-Playing,Capcom,0,0,0.25,0,0.25,38,18,5,82,,
+MotoGP,Wii,2009,Racing,Capcom,0.05,0.11,0,0.02,0.18,44,10,5.4,11,Milestone S.r.l,E
+Resident Evil 5,X360,2009,Action,Capcom,2.11,0.93,0.12,0.34,3.5,83,91,7.5,523,Capcom,M
+Resident Evil 5,PS3,2009,Action,Capcom,1.96,1.41,1.08,0.64,5.09,84,76,7.5,667,Capcom,M
+Resident Evil 5,PC,2009,Action,Capcom,0.01,0.04,0,0.01,0.07,86,30,7.1,597,Capcom,M
+Resident Evil: The Darkside Chronicles,Wii,2009,Action,Capcom,0.46,0.31,0.2,0.09,1.05,75,55,8,60,Cavia Inc.,M
+Sengoku Basara: Battle Heroes,PSP,2009,Action,Capcom,0,0,0.26,0,0.26,70,18,2,26,,
+Spyborgs,Wii,2009,Action,Capcom,0.09,0.01,0,0.01,0.11,66,30,6.3,6,Bionic Games,T
+Street Fighter IV,X360,2009,Fighting,Capcom,1.82,0.7,0.15,0.26,2.94,93,77,7.3,292,Capcom,T
+Street Fighter IV,PS3,2009,Fighting,Capcom,2.03,1.04,0.58,0.52,4.16,94,61,7.3,330,Capcom,T
+Dark Void,X360,2010,Action,Capcom,0.19,0.09,0,0.03,0.31,59,69,6,61,Airtight Games,T
+Dark Void,PS3,2010,Action,Capcom,0.18,0.12,0,0.05,0.35,59,50,6,36,Airtight Games,T
+Dark Void,PC,2010,Action,Capcom,0,0.01,0,0,0.02,57,22,5.1,67,Airtight Games,T
+Dead Rising 2,X360,2010,Action,Capcom,0.75,0.52,0.09,0.12,1.49,79,76,6.9,216,Blue Castle Games,M
+Dead Rising 2,PS3,2010,Action,Capcom,0.43,0.56,0.15,0.21,1.36,80,54,6.7,178,Blue Castle Games,M
+Dead Rising 2,PC,2010,Action,Capcom,0.1,0.02,0,0.01,0.14,78,17,6.3,211,Blue Castle Games,M
+Ghost Trick: Phantom Detective,DS,2010,Adventure,Capcom,0.17,0.07,0.12,0.02,0.38,83,60,9,127,Capcom,T
+Last Ranker,PSP,2010,Role-Playing,Capcom,0,0,0.13,0,0.13,3,84,5,9,,
+Lost Planet 2,X360,2010,Shooter,Capcom,0.38,0.23,0.08,0.06,0.76,52,17,10,74,,
+Lost Planet 2,PS3,2010,Shooter,Capcom,0.29,0.33,0.2,0.13,0.95,68,56,6.9,62,Capcom,T
+Lost Planet 2,PC,2010,Shooter,Capcom,0,0.02,0,0,0.03,63,15,6.3,87,Capcom,T
+Mega Man Zero Collection,DS,2010,Platform,Capcom,0.17,0.01,0.11,0.02,0.31,78,15,8.9,39,"Inti, Inti Creates",E
+MonHun Nikki: Poka Poka Ailu Mura,PSP,2010,Role-Playing,Capcom,0,0,0.6,0,0.6,64,99,8,75,,
+Monster Hunter Freedom 3,PSP,2010,Role-Playing,Capcom,0,0,4.87,0,4.87,20,54,1,10,,
+Monster Hunter Frontier Online,X360,2010,Role-Playing,Capcom,0,0,0.13,0,0.13,39,61,1,45,,
+Monster Hunter Frontier Online: Season 9.0,X360,2010,Role-Playing,Capcom,0,0,0.04,0,0.04,95,23,3,63,,
+MotoGP 09/10,X360,2010,Racing,Capcom,0.07,0.09,0,0.02,0.17,69,41,5.7,41,Monumental Games,E
+MotoGP 09/10,PS3,2010,Racing,Capcom,0.05,0.13,0,0.04,0.22,70,42,5.4,28,Monumental Games,E
+OkamiDen,DS,2010,Adventure,Capcom,0.21,0.06,0.13,0.02,0.43,82,48,7.9,53,Capcom,E10+
+Sengoku Basara: Samurai Heroes,Wii,2010,Action,Capcom,0.06,0.01,0.2,0.01,0.29,65,18,8.8,13,Capcom,T
+Sengoku Basara: Samurai Heroes,PS3,2010,Action,Capcom,0.17,0.04,0.4,0.02,0.64,61,37,7.9,29,Capcom,T
+Tatsunoko vs. Capcom: Ultimate All-Stars,Wii,2010,Fighting,Capcom,0.3,0.15,0.03,0.05,0.53,85,62,8.8,85,Eighting,T
+Ace Attorney Investigations 2,DS,2011,Adventure,Capcom,0,0,0.26,0,0.26,85,71,7,26,,
+Biohazard: Revival Selection,X360,2011,Action,Capcom,0,0,0.03,0,0.03,71,47,6,23,,
+Biohazard: Revival Selection,PS3,2011,Action,Capcom,0,0,0.18,0,0.18,0,66,10,34,,
+Dead Rising 2: Off the Record,X360,2011,Action,Capcom,0.17,0.08,0,0.02,0.27,72,48,7.5,60,Capcom Vancouver,M
+Dead Rising 2: Off the Record,PS3,2011,Action,Capcom,0.11,0.08,0.1,0.03,0.32,72,31,7.1,35,Capcom Vancouver,M
+Dead Rising 2: Off the Record,PC,2011,Action,Capcom,0.04,0.02,0,0.01,0.06,66,10,5.3,54,Capcom Vancouver,M
+Marvel vs. Capcom 3: Fate of Two Worlds,X360,2011,Fighting,Capcom,0.79,0.18,0.03,0.07,1.07,63,32,0,29,,
+Marvel vs. Capcom 3: Fate of Two Worlds,PS3,2011,Fighting,Capcom,0.81,0.28,0.11,0.14,1.34,84,56,7.3,147,Capcom,T
+MonHun Nikki: Poka Poka Ailu Mura G,PSP,2011,Role-Playing,Capcom,0,0,0.31,0,0.31,31,21,2,64,,
+Monster Hunter Freedom 2,PS3,2011,Role-Playing,Capcom,0,0,0.5,0,0.5,51,70,8,1,,
+Monster Hunter Frontier Online: Forward 1,X360,2011,Role-Playing,Capcom,0,0,0.03,0,0.03,8,4,8,51,,
+Monster Hunter Frontier Online: Forward 2,X360,2011,Role-Playing,Capcom,0,0,0.03,0,0.03,19,7,3,12,,
+Monster Hunter Frontier Online: Season 10,X360,2011,Role-Playing,Capcom,0,0,0.03,0,0.03,93,88,10,25,,
+MotoGP 10/11,X360,2011,Racing,Capcom,0,0.05,0,0.01,0.06,72,31,0,2,Monumental Games,E
+MotoGP 10/11,PS3,2011,Racing,Capcom,0.04,0.1,0,0.03,0.17,68,32,6.1,23,Monumental Games,E
+Nazo Waku Yakata: Oto no Ma ni Ma ni,3DS,2011,Misc,Capcom,0,0,0.05,0,0.05,23,51,5,12,,
+Resident Evil: The Mercenaries 3D,3DS,2011,Action,Capcom,0.16,0.16,0.13,0.03,0.49,65,69,6.4,110,Capcom,M
+Sengoku Basara 3 Utage,Wii,2011,Action,Capcom,0,0,0.13,0,0.13,64,51,1,73,,
+Sengoku Basara 3 Utage,PS3,2011,Action,Capcom,0,0,0.22,0,0.22,93,12,9,65,,
+Sengoku Basara: Chronicle Heroes,PSP,2011,Action,Capcom,0,0,0.16,0,0.16,18,30,4,18,,
+Super Street Fighter IV: 3D Edition,3DS,2011,Fighting,Capcom,0.55,0.44,0.14,0.09,1.21,85,69,8.1,206,Capcom,T
+Ultimate Marvel vs. Capcom 3,X360,2011,Fighting,Capcom,0,0.03,0.04,0,0.07,79,44,6.2,85,Capcom,T
+Ultimate Marvel vs. Capcom 3,PSV,2011,Fighting,Capcom,0.17,0.08,0,0.04,0.29,80,48,7.7,93,Capcom,T
+Ultimate Marvel vs. Capcom 3,PS3,2011,Fighting,Capcom,0,0.04,0.04,0.01,0.09,80,36,6.2,114,Capcom,T
+Ailu de Puzzle,PSP,2012,Action,Capcom,0,0,0.04,0,0.04,47,87,9,55,,
+Asura's Wrath,X360,2012,Action,Capcom,0.15,0.06,0.01,0.02,0.24,71,54,6.5,131,CyberConnect2,T
+Asura's Wrath,PS3,2012,Action,Capcom,0.18,0.12,0.06,0.05,0.4,71,39,7.4,169,CyberConnect2,T
+Capcom Digital Collection,X360,2012,Action,Capcom,0.02,0.01,0,0,0.02,65,11,5.3,4,Capcom,T
+Devil May Cry HD Collection,X360,2012,Action,Capcom,0.28,0.11,0.01,0.03,0.43,77,32,8.4,93,"Capcom, Pipeworks Software, Inc.",M
+Devil May Cry HD Collection,PS3,2012,Action,Capcom,0.42,0.19,0.11,0.09,0.82,74,27,8.8,158,"Capcom, Pipeworks Software, Inc.",M
+Dragon's Dogma,X360,2012,Role-Playing,Capcom,0.42,0.23,0.07,0.06,0.79,75,59,7.8,320,Capcom,M
+Dragon's Dogma,PS3,2012,Role-Playing,Capcom,0.41,0.44,0.72,0.17,1.74,78,38,8.3,444,Capcom,M
+E.X. Troopers,PS3,2012,Shooter,Capcom,0,0,0.05,0,0.05,83,100,10,100,,
+E.X. Troopers,3DS,2012,Shooter,Capcom,0,0,0.07,0,0.07,67,63,7,58,,
+Okami,PS3,2012,Action,Capcom,0,0,0.14,0,0.14,53,4,10,84,,
+Resident Evil 6,X360,2012,Shooter,Capcom,1.12,0.6,0.07,0.16,1.95,67,71,5,1407,Capcom,M
+Resident Evil 6,PS3,2012,Shooter,Capcom,0.88,0.94,0.88,0.4,3.1,74,34,5.4,1304,Capcom,M
+Resident Evil 6,PC,2012,Shooter,Capcom,0,0.04,0,0,0.04,69,18,5.9,868,"Capcom, QLOC",M
+Resident Evil Chronicles HD,PS3,2012,Shooter,Capcom,0,0,0.09,0,0.09,67,36,3,51,,
+Resident Evil: Operation Raccoon City,X360,2012,Action,Capcom,0.55,0.14,0.03,0.06,0.77,52,56,4.9,330,Slant Six,M
+Resident Evil: Operation Raccoon City,PS3,2012,Action,Capcom,0.48,0.24,0.36,0.1,1.17,52,36,4.9,222,Slant Six,M
+Resident Evil: Operation Raccoon City,PC,2012,Action,Capcom,0,0.03,0,0.01,0.04,48,8,3.8,188,Slant Six,M
+Resident Evil: Revelations,3DS,2012,Action,Capcom,0.3,0.22,0.3,0.05,0.88,82,78,8.5,397,Capcom,M
+Steel Battalion: Heavy Armor,X360,2012,Misc,Capcom,0.08,0.02,0.02,0.01,0.13,38,58,2.4,92,From Software,M
+Street Fighter X Tekken,X360,2012,Fighting,Capcom,0.31,0.1,0.03,0.04,0.47,83,45,4.4,177,Capcom,T
+Street Fighter X Tekken,PSV,2012,Fighting,Capcom,0.1,0.04,0.01,0.03,0.19,79,25,7.5,66,Capcom,T
+Street Fighter X Tekken,PS3,2012,Fighting,Capcom,0.42,0.21,0.1,0.09,0.83,84,51,5.3,191,Capcom,T
+Street Fighter X Tekken,PC,2012,Fighting,Capcom,0,0.02,0,0,0.02,79,8,6.4,134,"Capcom, QLOC",T
+Darkstalkers Resurrection,PS3,2013,Fighting,Capcom,0,0,0.03,0,0.03,80,33,7.3,27,Iron Galaxy Studios,T
+DmC: Devil May Cry,X360,2013,Action,Capcom,0.26,0.12,0.01,0.04,0.44,86,65,5.1,1438,Ninja Theory,M
+DmC: Devil May Cry,PS3,2013,Action,Capcom,0.24,0.26,0.19,0.1,0.79,85,40,5.3,1471,Ninja Theory,M
+DuckTales: Remastered,X360,2013,Action,Capcom,0.03,0,0,0,0.04,67,61,6,85,,
+DuckTales: Remastered,WiiU,2013,Action,Capcom,0.06,0,0,0.01,0.06,76,10,7.9,100,WayForward,E
+DuckTales: Remastered,PS3,2013,Action,Capcom,0.01,0.03,0,0.01,0.05,75,31,7.4,135,WayForward,E
+DuckTales: Remastered,PC,2013,Action,Capcom,0,0.01,0,0,0.02,66,6,7.6,152,WayForward,E
+Dungeons & Dragons: Shadow over Mystara,PS3,2013,Role-Playing,Capcom,0,0,0.02,0,0.02,57,80,7,17,,
+Gaist Crusher,3DS,2013,Action,Capcom,0,0,0.05,0,0.05,9,47,4,68,,
+Lost Planet 3,X360,2013,Shooter,Capcom,0.07,0.03,0.01,0.01,0.12,58,43,5.8,142,Spark Unlimited,T
+Lost Planet 3,PS3,2013,Shooter,Capcom,0.07,0.05,0.06,0.02,0.21,61,30,5.5,102,Spark Unlimited,T
+Lost Planet 3,PC,2013,Shooter,Capcom,0,0.04,0,0,0.04,61,17,6.2,210,Spark Unlimited,T
+Monster Hunter 4,3DS,2013,Role-Playing,Capcom,0,0,3.44,0,3.44,39,5,5,10,,
+Phoenix Wright: Ace Attorney - Dual Destinies,3DS,2013,Adventure,Capcom,0,0,0.38,0,0.38,65,54,3,64,,
+Remember Me,X360,2013,Action,Capcom,0.1,0.06,0,0.02,0.18,70,42,7.5,267,DONTNOD Entertainment,M
+Remember Me,PS3,2013,Action,Capcom,0.1,0.17,0,0.06,0.32,72,37,7.4,424,DONTNOD Entertainment,M
+Remember Me,PC,2013,Action,Capcom,0,0.05,0,0,0.06,65,26,7.4,1007,DONTNOD Entertainment,M
+Resident Evil: Revelations,X360,2013,Action,Capcom,0.12,0.1,0.02,0.02,0.26,75,30,7.4,170,Capcom,M
+Resident Evil: Revelations,WiiU,2013,Action,Capcom,0.07,0.07,0.03,0.01,0.19,80,19,7.5,146,Capcom,M
+Resident Evil: Revelations,PS3,2013,Action,Capcom,0.14,0.29,0.22,0.09,0.74,74,30,7.2,204,Capcom,M
+Resident Evil: Revelations,PC,2013,Action,Capcom,0,0.04,0,0,0.04,77,12,7,342,Capcom,M
+Gaist Crusher God,3DS,2014,Action,Capcom,0,0,0.02,0,0.02,69,8,4,5,,
+Phoenix Wright: Ace Attorney Trilogy,3DS,2014,Adventure,Capcom,0,0,0.02,0,0.02,81,34,9,76,NATSUME ATARI Inc.,T
+Sengoku Basara 4,PS3,2014,Action,Capcom,0,0,0.27,0,0.27,92,56,6,93,,
+Strider (2014),PS3,2014,Platform,Capcom,0,0,0.01,0,0.01,97,26,5,97,,
+Devil May Cry 4,PS4,2015,Action,Capcom,0.01,0,0.08,0,0.09,36,68,9,76,,
+DmC: Devil May Cry,XOne,2015,Action,Capcom,0.08,0.04,0,0.01,0.14,12,16,2,97,,
+DmC: Devil May Cry,PS4,2015,Action,Capcom,0.12,0.13,0,0.05,0.31,38,3,1,57,,
+Dragon's Dogma Online,PS4,2015,Role-Playing,Capcom,0,0,0.08,0,0.08,66,47,10,52,,
+Dragon's Dogma Online,PS3,2015,Role-Playing,Capcom,0,0,0.03,0,0.03,74,63,4,2,,
+Great Phoenix Wright: Ace Attorney - Naruhodou Ryuunosuke no Bouken,3DS,2015,Action,Capcom,0,0,0.19,0,0.19,95,53,3,92,,
+Monster Hunter Diary: Poka Poka Airou Village DX,3DS,2015,Action,Capcom,0,0,0.14,0,0.14,92,66,1,4,,
+Monster Hunter X,3DS,2015,Action,Capcom,0.27,0.21,2.79,0.05,3.32,40,18,2,47,,
+Resident Evil: Revelations 2,XOne,2015,Action,Capcom,0.07,0.02,0,0.01,0.1,75,22,7.5,106,Capcom,M
+Resident Evil: Revelations 2,X360,2015,Action,Capcom,0.04,0.02,0,0.01,0.07,41,39,6.6,48,Capcom,M
+Resident Evil: Revelations 2,PSV,2015,Action,Capcom,0,0.03,0.07,0.01,0.1,65,12,7.8,63,Frima Studio,M
+Resident Evil: Revelations 2,PS4,2015,Action,Capcom,0.13,0.24,0.1,0.07,0.55,75,30,7.7,284,Capcom,M
+Resident Evil: Revelations 2,PS3,2015,Action,Capcom,0.06,0.05,0.16,0.02,0.29,11,75,6.8,48,Capcom,M
+Sengoku Basara 4: Sumeragi,PS4,2015,Action,Capcom,0,0,0.05,0,0.05,34,8,1,28,,
+Sengoku Basara 4: Sumeragi,PS3,2015,Action,Capcom,0,0,0.09,0,0.09,61,68,9,95,,
+Ultra Street Fighter IV,PS4,2015,Fighting,Capcom,0,0.08,0,0.01,0.1,71,28,5.9,94,Other Ocean Interactive,T
+Ace Attorney 6,3DS,2016,Adventure,Capcom,0,0,0.27,0,0.27,30,94,9,95,,
+Dead Rising,XOne,2016,Action,Capcom,0.01,0,0,0,0.01,13,97,8.8,12,Capcom,M
+Dead Rising,PS4,2016,Action,Capcom,0.02,0,0.01,0.01,0.04,78,6,6.6,30,Capcom,M
+Dead Rising 2,XOne,2016,Action,Capcom,0.01,0,0,0,0.02,27,51,5,8,Blue Castle Games,M
+Dead Rising 2,PS4,2016,Action,Capcom,0.01,0,0.01,0,0.03,82,4,6.6,8,Blue Castle Games,M
+Dragon's Dogma Online: Season 2,PS4,2016,Action,Capcom,0,0,0.02,0,0.02,97,54,10,94,,
+Mega Man Legacy Collection,PS4,2016,Platform,Capcom,0.07,0,0,0.02,0.08,77,22,6.1,55,Digital Eclipse,E
+Mega Man Legacy Collection,3DS,2016,Platform,Capcom,0.14,0,0.05,0.02,0.21,77,27,7.1,26,Digital Eclipse,E
+Monster Hunter Stories,3DS,2016,Action,Capcom,0,0,0.28,0,0.28,89,15,7,53,,
+Resident Evil 4 HD,XOne,2016,Shooter,Capcom,0.02,0,0,0,0.02,55,54,3,85,,
+Resident Evil 4 HD,PS4,2016,Shooter,Capcom,0.04,0,0,0.01,0.05,35,7,4,65,,
+Resident Evil 5 HD,XOne,2016,Action,Capcom,0.02,0,0,0,0.02,82,16,4,80,,
+Resident Evil 5 HD,PS4,2016,Action,Capcom,0.02,0,0,0.01,0.03,58,41,1,72,,
+Resident Evil 6,XOne,2016,Shooter,Capcom,0.04,0,0,0,0.05,63,12,6.3,34,Capcom,M
+Resident Evil 6,PS4,2016,Shooter,Capcom,0.06,0,0,0.01,0.08,60,19,6.7,94,Capcom,M
+Resident Evil Zero,XOne,2016,Action,Capcom,0.05,0.02,0,0.01,0.08,97,12,3,92,,
+Resident Evil Zero,PS4,2016,Action,Capcom,0.1,0.17,0.05,0.05,0.37,99,52,4,92,,
+Resident Evil Zero,PC,2016,Action,Capcom,0.01,0.01,0,0,0.02,54,23,10,33,,
+Resident Evil: Umbrella Corps,PS4,2016,Action,Capcom,0,0,0.02,0,0.02,3,45,5,55,,
+Sengoku Basara: Sanada Yukimura-Den,PS4,2016,Action,Capcom,0,0,0.03,0,0.03,88,56,4,100,,
+Sengoku Basara: Sanada Yukimura-Den,PS3,2016,Action,Capcom,0,0,0.03,0,0.03,66,8,9,70,,
+Street Fighter V,PS4,2016,Fighting,Capcom,0.4,0.28,0.08,0.14,0.9,77,80,3.4,1221,Capcom,T
+Street Fighter V,PC,2016,Fighting,Capcom,0,0.05,0,0,0.06,74,33,2.9,431,Capcom,T
+Mega Man Battle Network: Operation Shooting Star,DS,N/A,Role-Playing,Capcom,0,0,0.07,0,0.07,23,93,9,73,,
+Monster Hunter 2,PS2,N/A,Role-Playing,Capcom,0,0,0.63,0,0.63,24,30,8,52,,
+Street Fighter IV,PC,N/A,Fighting,Capcom,0.07,0.05,0,0.02,0.13,91,23,8,352,Capcom,T
+Super Puzzle Fighter II,GBA,N/A,Puzzle,Capcom,0.06,0.02,0,0,0.09,83,22,9.5,4,Atomic Planet Entertainment,E
+Without Warning,XB,N/A,Shooter,Capcom,0.01,0,0,0,0.02,45,25,2,5,CiRCLE,M
