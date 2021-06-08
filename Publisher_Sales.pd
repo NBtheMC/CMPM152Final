@@ -1,7 +1,6 @@
 #N canvas -8 -8 1920 997 12;
-#X obj 15 417 tgl 40 0 empty empty Sound 0 20 0 16 -4032 -1 -1 0 1
-;
-#X msg 15 461 \; pd dsp \$1;
+#X obj 13 11 tgl 40 0 empty empty Sound 0 20 0 16 -4032 -1 -1 1 1;
+#X msg 13 55 \; pd dsp \$1;
 #N canvas -8 -8 1920 997 Activision 0;
 #X obj 201 337 phasor~;
 #X obj 228 400 *~;
@@ -95,9 +94,9 @@
 #X connect 39 0 36 1;
 #X restore 138 378 pd Activision;
 #X obj 141 349 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 9652 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 103 247 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 400 1;
+-1 -1 0 1;
 #X obj 138 489 dac~;
 #X obj 139 458 *~;
 #X msg 184 432 0;
@@ -1235,9 +1234,9 @@
 #X connect 37 0 29 1;
 #X restore 1336 748 pd Ubisoft;
 #X obj 319 346 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 11922 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 293 243 vsl 15 128 0 2 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 527 1;
+-1 -1 0 1;
 #X obj 519 343 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
 #X obj 495 242 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
@@ -1245,7 +1244,7 @@
 #X obj 748 328 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
 #X obj 720 227 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 1954 1;
+-1 -1 0 1;
 #X obj 316 485 dac~;
 #X obj 317 454 *~;
 #X msg 360 435 0;
@@ -1259,53 +1258,53 @@
 #X msg 784 419 0;
 #X obj 784 393 loadbang;
 #X obj 964 334 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 4540 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 930 227 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 1284 1;
+-1 -1 0 1;
 #X obj 966 469 dac~;
 #X obj 967 438 *~;
 #X msg 1010 419 0;
 #X obj 1010 393 loadbang;
 #X obj 84 714 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 12700 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 50 607 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 1345 1;
+-1 -1 0 1;
 #X obj 285 714 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
 #X obj 251 607 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 466 1;
+-1 -1 0 1;
 #X obj 1149 335 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
 #X obj 1115 228 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 1033 1;
+-1 -1 0 1;
 #X obj 1176 470 dac~;
 #X obj 1177 439 *~;
 #X msg 1220 420 0;
 #X obj 1220 394 loadbang;
 #X obj 1362 337 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 1505 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 1328 230 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 3572 1;
+-1 -1 0 1;
 #X obj 519 725 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 9305 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 479 610 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 2743 1;
+-1 -1 0 1;
 #X obj 713 716 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 2580 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 679 609 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 12700 1;
+-1 -1 0 1;
 #X obj 904 714 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 12700 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 870 607 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 9417 1;
+-1 -1 0 1;
 #X obj 1141 707 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 12579 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 1107 600 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 1215 1;
+-1 -1 0 1;
 #X obj 1358 708 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 11071 1;
+-8 0 10 -262144 -1 -1 0 1;
 #X obj 1324 601 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 158 1;
+-1 -1 0 1;
 #X obj 52 867 dac~;
 #X obj 63 843 *~;
 #X msg 106 824 0;
@@ -1380,7 +1379,7 @@
 #X obj 1169 160 r Global_Sales_Konami;
 #X obj 1326 134 r Average_Critic_Score_Microsoft;
 #X obj 1381 161 r Global_Sales_Microsoft;
-#X obj 16 15 bng 100 250 50 0 start empty Start 0 40 0 16 -4034 -1
+#X obj 109 8 bng 100 250 50 0 start empty Start 0 40 0 16 -4034 -1
 -1;
 #X floatatom 103 587 5 0 0 0 - - -;
 #X obj 105 564 / 200;
@@ -1553,7 +1552,7 @@
 #X obj 1699 670 r restart;
 #X obj 1699 786 r restart;
 #X obj 597 914 hsl 500 50 0 1 0 0 speed empty Speed 20 20 0 20 -159808
--1 -1 1700 1;
+-1 -1 0 1;
 #X obj 399 94 r speed;
 #X obj 642 99 r speed;
 #X obj 872 92 r speed;
