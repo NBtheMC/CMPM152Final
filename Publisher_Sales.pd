@@ -1,8 +1,8 @@
-#N canvas -1928 79 1920 997 12;
+#N canvas -8 -8 1920 997 12;
 #X obj 21 20 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0 1
 ;
 #X msg 21 44 \; pd dsp \$1;
-#N canvas -1458 236 1241 714 Activision 1;
+#N canvas -1928 79 1920 997 Activision 0;
 #X obj 201 337 phasor~;
 #X obj 228 400 *~;
 #X obj 212 161 soundfiler;
@@ -27,6 +27,31 @@
 #X msg 213 132 read -resize PublisherSongs/Activision.wav soundData1
 ;
 #X obj 238 445 tabread4~ soundData1;
+#X obj 446 633 r Min_Max_Sales_Activision;
+#X obj 447 656 select -1 1;
+#N canvas 212 36 450 300 (subpatch) 0;
+#X array Activision_Min 289228 float 0;
+#X coords 0 1 289227 -1 300 100 1 0 0;
+#X restore 709 711 graph;
+#X obj 713 665 soundfiler;
+#X obj 714 607 loadbang;
+#X obj 447 682 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 484 683 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 352 716 tabplay~ Activision_Min;
+#X obj 454 761 dac~;
+#X obj 528 716 tabplay~ Activision_Max;
+#N canvas 212 36 450 300 (subpatch) 0;
+#X array Activision_Max 144893 float 0;
+#X coords 0 1 144892 -1 300 100 1 0 0;
+#X restore 1162 708 graph;
+#X obj 1166 662 soundfiler;
+#X obj 1167 604 loadbang;
+#X msg 714 635 read -resize MinSongs/Activision.wav Activision_Min
+;
+#X msg 1167 632 read -resize MaxSongs/Activision.wav Activision_Max
+;
 #X connect 0 0 1 0;
 #X connect 1 0 18 0;
 #X connect 2 0 3 0;
@@ -45,17 +70,28 @@
 #X connect 15 0 17 0;
 #X connect 17 0 2 0;
 #X connect 18 0 4 0;
-#X restore 75 426 pd Activision;
-#X obj 78 397 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
--8 0 10 -262144 -1 -1 0 1;
-#X obj 40 295 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
--1 -1 0 1;
-#X obj 75 537 dac~;
-#X obj 76 506 *~;
-#X msg 121 480 0;
-#X msg 158 481 1;
-#X obj 119 456 loadbang;
-#N canvas 169 271 1174 536 Atari 0;
+#X connect 19 0 20 0;
+#X connect 20 0 24 0;
+#X connect 20 1 25 0;
+#X connect 23 0 32 0;
+#X connect 24 0 26 0;
+#X connect 25 0 28 0;
+#X connect 26 0 27 0;
+#X connect 28 0 27 1;
+#X connect 31 0 33 0;
+#X connect 32 0 22 0;
+#X connect 33 0 30 0;
+#X restore 103 426 pd Activision;
+#X obj 106 397 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+-8 0 10 -262144 -1 -1 11781 1;
+#X obj 68 295 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
+-1 -1 2124 1;
+#X obj 103 537 dac~;
+#X obj 104 506 *~;
+#X msg 149 480 0;
+#X msg 186 481 1;
+#X obj 147 456 loadbang;
+#N canvas -1928 79 1920 997 Atari 0;
 #X obj 216 338 phasor~;
 #X obj 243 401 *~;
 #X obj 212 161 soundfiler;
@@ -78,6 +114,29 @@
 #X msg 213 133 read -resize PublisherSongs/Atari.wav soundData2;
 #X obj 253 446 tabread4~ soundData2;
 #X obj 213 103 loadbang;
+#X obj 447 656 select -1 1;
+#N canvas 212 36 450 300 (subpatch) 0;
+#X array Atari_Min 134862 float 0;
+#X coords 0 1 134861 -1 300 100 1 0 0;
+#X restore 709 711 graph;
+#X obj 713 665 soundfiler;
+#X obj 714 607 loadbang;
+#X obj 447 682 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 484 683 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 454 761 dac~;
+#N canvas 212 36 450 300 (subpatch) 0;
+#X array Atari_Max 57958 float 0;
+#X coords 0 1 57957 -1 300 100 1 0 0;
+#X restore 1162 708 graph;
+#X obj 1166 662 soundfiler;
+#X obj 1167 604 loadbang;
+#X obj 446 633 r Min_Max_Sales_Atari;
+#X obj 352 715 tabplay~ Atari_Min;
+#X obj 528 716 tabplay~ Atari_Max;
+#X msg 714 635 read -resize MinSongs/Atari.wav Atari_Min;
+#X msg 1167 632 read -resize MaxSongs/Atari.wav Atari_Max;
 #X connect 0 0 1 0;
 #X connect 1 0 16 0;
 #X connect 2 0 3 0;
@@ -96,7 +155,18 @@
 #X connect 15 0 2 0;
 #X connect 16 0 4 0;
 #X connect 17 0 15 0;
-#X restore 240 427 pd Atari;
+#X connect 18 0 22 0;
+#X connect 18 1 23 0;
+#X connect 21 0 31 0;
+#X connect 22 0 29 0;
+#X connect 23 0 30 0;
+#X connect 27 0 32 0;
+#X connect 28 0 18 0;
+#X connect 29 0 24 0;
+#X connect 30 0 24 1;
+#X connect 31 0 20 0;
+#X connect 32 0 26 0;
+#X restore 292 427 pd Atari;
 #N canvas 223 321 1091 536 Bethesda 0;
 #X obj 216 338 phasor~;
 #X obj 243 401 *~;
@@ -137,7 +207,7 @@
 #X connect 13 0 5 0;
 #X connect 14 0 2 0;
 #X connect 15 0 4 0;
-#X restore 413 421 pd Bethesda;
+#X restore 548 421 pd Bethesda;
 #N canvas -1208 388 1062 536 Capcom 0;
 #X obj 216 338 phasor~;
 #X obj 243 401 *~;
@@ -179,7 +249,7 @@
 #X connect 16 0 9 0;
 #X connect 16 0 8 1;
 #X connect 17 0 16 0;
-#X restore 624 408 pd Capcom;
+#X restore 799 408 pd Capcom;
 #N canvas 590 295 1078 536 EA 0;
 #X obj 216 338 phasor~;
 #X obj 243 401 *~;
@@ -221,7 +291,7 @@
 #X connect 15 0 2 0;
 #X connect 17 0 9 0;
 #X connect 17 0 8 1;
-#X restore 822 418 pd EA;
+#X restore 1037 418 pd EA;
 #N canvas 288 397 1271 536 Konami 0;
 #X obj 216 338 phasor~;
 #X obj 243 401 *~;
@@ -261,7 +331,7 @@
 #X connect 13 0 8 1;
 #X connect 14 0 5 0;
 #X connect 15 0 2 0;
-#X restore 1020 430 pd Konami;
+#X restore 1285 430 pd Konami;
 #N canvas 58 333 1243 536 Microsoft 0;
 #X obj 216 338 phasor~;
 #X obj 243 401 *~;
@@ -302,7 +372,7 @@
 #X connect 14 0 9 0;
 #X connect 14 0 8 1;
 #X connect 15 0 2 0;
-#X restore 1232 431 pd Microsoft;
+#X restore 1547 431 pd Microsoft;
 #N canvas 203 316 959 632 NamcoBandai 0;
 #X obj 84 284 phasor~;
 #X obj 111 347 *~;
@@ -587,42 +657,42 @@
 #X connect 14 0 8 1;
 #X connect 16 0 2 0;
 #X restore 1291 746 pd Ubisoft;
-#X obj 243 397 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+#X obj 295 397 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
-#X obj 217 294 vsl 15 128 0 2 0 0 empty empty volume 0 -9 0 10 -262144
+#X obj 269 294 vsl 15 128 0 2 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 416 391 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+#X obj 551 391 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
-#X obj 392 290 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
+#X obj 527 290 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 628 378 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+#X obj 803 378 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
-#X obj 600 277 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
+#X obj 775 277 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 240 536 dac~;
-#X obj 241 505 *~;
-#X msg 284 486 0;
-#X msg 323 487 1;
-#X obj 284 460 loadbang;
-#X obj 411 539 dac~;
-#X obj 412 508 *~;
-#X msg 455 489 0;
-#X msg 494 490 1;
-#X obj 455 463 loadbang;
-#X obj 620 519 dac~;
-#X obj 621 488 *~;
-#X msg 664 469 0;
-#X msg 703 470 1;
-#X obj 664 443 loadbang;
-#X obj 825 382 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+#X obj 292 536 dac~;
+#X obj 293 505 *~;
+#X msg 336 486 0;
+#X msg 375 487 1;
+#X obj 336 460 loadbang;
+#X obj 546 539 dac~;
+#X obj 547 508 *~;
+#X msg 590 489 0;
+#X msg 629 490 1;
+#X obj 590 463 loadbang;
+#X obj 795 519 dac~;
+#X obj 796 488 *~;
+#X msg 839 469 0;
+#X msg 878 470 1;
+#X obj 839 443 loadbang;
+#X obj 1040 382 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
-#X obj 791 275 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
+#X obj 1006 275 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 827 517 dac~;
-#X obj 828 486 *~;
-#X msg 871 467 0;
-#X msg 910 468 1;
-#X obj 871 441 loadbang;
+#X obj 1042 517 dac~;
+#X obj 1043 486 *~;
+#X msg 1086 467 0;
+#X msg 1125 468 1;
+#X obj 1086 441 loadbang;
 #X obj 124 709 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
 #X obj 90 602 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
@@ -631,18 +701,18 @@
 -8 0 10 -262144 -1 -1 0 1;
 #X obj 300 602 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 1029 390 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+#X obj 1294 390 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
-#X obj 995 283 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
+#X obj 1260 283 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 1056 525 dac~;
-#X obj 1057 494 *~;
-#X msg 1100 475 0;
-#X msg 1139 476 1;
-#X obj 1100 449 loadbang;
-#X obj 1250 387 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
+#X obj 1321 525 dac~;
+#X obj 1322 494 *~;
+#X msg 1365 475 0;
+#X msg 1404 476 1;
+#X obj 1365 449 loadbang;
+#X obj 1565 387 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
-#X obj 1216 280 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
+#X obj 1531 280 vsl 15 128 0 0.5 0 0 empty empty volume 0 -9 0 10 -262144
 -1 -1 0 1;
 #X obj 529 717 hsl 128 15 0.5 1.5 0 0 empty empty playback_speed -2
 -8 0 10 -262144 -1 -1 0 1;
@@ -699,18 +769,40 @@
 #X msg 1347 802 0;
 #X msg 1386 803 1;
 #X obj 1347 776 loadbang;
-#X obj 1284 525 dac~;
-#X obj 1285 494 *~;
-#X msg 1328 475 0;
-#X msg 1367 476 1;
-#X obj 1328 449 loadbang;
-#X obj 1478 398 qlist;
-#X msg 1499 220 bang;
-#X msg 1604 293 tempo \$1;
-#X floatatom 1604 267 5 0 0 0 - - -;
-#X obj 1506 191 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
--1 -1;
-#X msg 1478 90 read ActivisionScript.txt;
+#X obj 1599 525 dac~;
+#X obj 1600 494 *~;
+#X msg 1643 475 0;
+#X msg 1682 476 1;
+#X obj 1643 449 loadbang;
+#X obj 1330 232 qlist;
+#X msg 1342 61 bang;
+#X msg 1457 160 tempo \$1;
+#X floatatom 1457 134 5 0 0 0 - - -;
+#X msg 1331 21 read Scripts/ActivisionScript.txt;
+#X obj 70 208 r Global_Sales_Activision;
+#X obj 15 181 r Average_Critic_Score_Activision;
+#X msg 1354 89 rewind;
+#X floatatom 68 257 5 0 0 0 - - -;
+#X obj 70 234 / 200;
+#X floatatom 15 229 5 0 0 0 - - -;
+#X obj 15 206 / 5;
+#X obj 1457 81 loadbang;
+#X msg 1457 106 1;
+#X msg 1382 147 clear;
+#X msg 1366 118 print;
+#X msg 1377 187 next;
+#X obj 321 211 r Global_Sales_Activision;
+#X obj 266 184 r Average_Critic_Score_Activision;
+#X floatatom 319 260 5 0 0 0 - - -;
+#X obj 321 237 / 200;
+#X floatatom 266 232 5 0 0 0 - - -;
+#X obj 266 209 / 5;
+#X obj 591 204 r Global_Sales_Activision;
+#X obj 536 177 r Average_Critic_Score_Activision;
+#X floatatom 589 253 5 0 0 0 - - -;
+#X obj 591 230 / 200;
+#X floatatom 536 225 5 0 0 0 - - -;
+#X obj 536 202 / 5;
 #X connect 0 0 1 0;
 #X connect 2 0 6 0;
 #X connect 3 0 2 0;
@@ -827,5 +919,26 @@
 #X connect 115 0 114 0;
 #X connect 116 0 114 0;
 #X connect 117 0 116 0;
-#X connect 118 0 115 0;
-#X connect 119 0 114 0;
+#X connect 118 0 114 0;
+#X connect 119 0 123 0;
+#X connect 120 0 125 0;
+#X connect 121 0 114 0;
+#X connect 122 0 4 0;
+#X connect 123 0 122 0;
+#X connect 124 0 3 0;
+#X connect 125 0 124 0;
+#X connect 126 0 127 0;
+#X connect 127 0 117 0;
+#X connect 128 0 114 0;
+#X connect 129 0 114 0;
+#X connect 130 0 114 0;
+#X connect 131 0 134 0;
+#X connect 132 0 136 0;
+#X connect 133 0 24 0;
+#X connect 134 0 133 0;
+#X connect 135 0 23 0;
+#X connect 136 0 135 0;
+#X connect 137 0 140 0;
+#X connect 138 0 142 0;
+#X connect 140 0 139 0;
+#X connect 142 0 141 0;
